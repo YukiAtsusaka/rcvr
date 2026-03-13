@@ -1,0 +1,515 @@
+election_id,year,state,office,dist,juris,election_type,prm_party,n_cands,n_rounds,date,level,source_file,missing_data_check,sequential_rounds_check,round_totals_match_check,single_winner_check,monotone_votes_check,non_positive_transfer_check
+AK_2022_G_Alaska_01_State_House,2022,AK,State House,1,Alaska,general,NA,3,1,2022-11-30,State,alaska_house_district1_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_02_State_House,2022,AK,State House,2,Alaska,general,NA,3,1,2022-11-30,State,alaska_house_district2_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_03_State_House,2022,AK,State House,3,Alaska,general,NA,2,1,2022-11-30,State,alaska_house_district3_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_04_State_House,2022,AK,State House,4,Alaska,general,NA,3,1,2022-11-30,State,alaska_house_district4_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_05_State_House,2022,AK,State House,5,Alaska,general,NA,3,1,2022-11-30,State,alaska_house_district5_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_06_State_House,2022,AK,State House,6,Alaska,general,NA,4,1,2022-11-30,State,alaska_house_district6_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_07_State_House,2022,AK,State House,7,Alaska,general,NA,3,1,2022-11-30,State,alaska_house_district7_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_08_State_House,2022,AK,State House,8,Alaska,general,NA,2,1,2022-11-30,State,alaska_house_district8_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_09_State_House,2022,AK,State House,9,Alaska,general,NA,3,1,2022-11-30,State,alaska_house_district9_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_0A_State_Senate,2022,AK,State Senate,A,Alaska,general,NA,3,1,2022-11-30,State,alaska_senate_districta_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_0B_State_Senate,2022,AK,State Senate,B,Alaska,general,NA,2,1,2022-11-30,State,alaska_senate_districtb_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_0C_State_Senate,2022,AK,State Senate,C,Alaska,general,NA,4,1,2022-11-30,State,alaska_senate_districtc_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_0D_State_Senate,2022,AK,State Senate,D,Alaska,general,NA,4,1,2022-11-30,State,alaska_senate_districtd_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_0E_State_Senate,2022,AK,State Senate,E,Alaska,general,NA,3,2,2022-11-08,State,alaska_senate_districte_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_0L_State_Senate,2022,AK,State Senate,L,Alaska,general,NA,3,1,2022-11-30,State,alaska_senate_districtl_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_0M_State_Senate,2022,AK,State Senate,M,Alaska,general,NA,3,1,2022-11-30,State,alaska_senate_districtm_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_0N_State_Senate,2022,AK,State Senate,N,Alaska,general,NA,4,1,2022-11-30,State,alaska_senate_districtn_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_0O_State_Senate,2022,AK,State Senate,O,Alaska,general,NA,3,1,2022-11-30,State,alaska_senate_districto_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_0P_State_Senate,2022,AK,State Senate,P,Alaska,general,NA,4,1,2022-11-30,State,alaska_senate_districtp_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_0Q_State_Senate,2022,AK,State Senate,Q,Alaska,general,NA,4,1,2022-11-30,State,alaska_senate_districtq_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_0S_State_Senate,2022,AK,State Senate,S,Alaska,general,NA,3,1,2022-11-30,State,alaska_senate_districts_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_10_State_House,2022,AK,State House,10,Alaska,general,NA,4,1,2022-11-30,State,alaska_house_district10_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_11_State_House,2022,AK,State House,11,Alaska,general,NA,3,2,2022-11-08,State,alaska_house_district11_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_11_State_Senate,2022,AK,State Senate,11,Alaska,general,NA,3,1,2022-11-30,State,alaska_senate_districtf_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_12_State_House,2022,AK,State House,12,Alaska,general,NA,3,1,2022-11-30,State,alaska_house_district12_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_13_State_House,2022,AK,State House,13,Alaska,general,NA,3,1,2022-11-30,State,alaska_house_district13_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_13_State_Senate,2022,AK,State Senate,13,Alaska,general,NA,3,1,2022-11-30,State,alaska_senate_districtg_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_14_State_House,2022,AK,State House,14,Alaska,general,NA,3,1,2022-11-30,State,alaska_house_district14_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_15_State_House,2022,AK,State House,15,Alaska,general,NA,4,1,2022-11-30,State,alaska_house_district15_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_15_State_Senate,2022,AK,State Senate,15,Alaska,general,NA,3,1,2022-11-30,State,alaska_senate_districth_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_16_State_House,2022,AK,State House,16,Alaska,general,NA,3,1,2022-11-30,State,alaska_house_district16_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_17_State_House,2022,AK,State House,17,Alaska,general,NA,3,1,2022-11-30,State,alaska_house_district17_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_17_State_Senate,2022,AK,State Senate,17,Alaska,general,NA,3,1,2022-11-30,State,alaska_senate_districti_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_18_State_House,2022,AK,State House,18,Alaska,general,NA,3,2,2022-11-08,State,alaska_house_district18_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_19_State_House,2022,AK,State House,19,Alaska,general,NA,3,1,2022-11-30,State,alaska_house_district19_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_20_State_House,2022,AK,State House,20,Alaska,general,NA,5,1,2022-11-30,State,alaska_house_district20_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_21_State_House,2022,AK,State House,21,Alaska,general,NA,3,1,2022-11-30,State,alaska_house_district21_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_21_State_Senate,2022,AK,State Senate,21,Alaska,general,NA,3,1,2022-11-30,State,alaska_senate_districtk_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_22_State_House,2022,AK,State House,22,Alaska,general,NA,3,1,2022-11-30,State,alaska_house_district22_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_23_State_House,2022,AK,State House,23,Alaska,general,NA,3,1,2022-11-30,State,alaska_house_district23_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_24_State_House,2022,AK,State House,24,Alaska,general,NA,4,1,2022-11-30,State,alaska_house_district24_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_25_State_House,2022,AK,State House,25,Alaska,general,NA,3,1,2022-11-30,State,alaska_house_district25_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_26_State_House,2022,AK,State House,26,Alaska,general,NA,3,1,2022-11-30,State,alaska_house_district26_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_27_State_House,2022,AK,State House,27,Alaska,general,NA,4,1,2022-11-30,State,alaska_house_district27_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_28_State_House,2022,AK,State House,28,Alaska,general,NA,4,3,2022-11-08,State,alaska_house_district28_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_29_State_House,2022,AK,State House,29,Alaska,general,NA,3,1,2022-11-30,State,alaska_house_district29_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_30_State_House,2022,AK,State House,30,Alaska,general,NA,3,2,2022-11-08,State,alaska_house_district30_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_31_State_House,2022,AK,State House,31,Alaska,general,NA,3,2,2022-11-08,State,alaska_house_district31_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_32_State_House,2022,AK,State House,32,Alaska,general,NA,4,1,2022-11-30,State,alaska_house_district32_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_33_State_House,2022,AK,State House,33,Alaska,general,NA,2,1,2022-11-30,State,alaska_house_district33_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_34_State_House,2022,AK,State House,34,Alaska,general,NA,3,2,2022-11-08,State,alaska_house_district34_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_35_State_House,2022,AK,State House,35,Alaska,general,NA,5,1,2022-11-30,State,alaska_house_district35_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_35_State_Senate,2022,AK,State Senate,35,Alaska,general,NA,4,1,2022-11-30,State,alaska_senate_districtr_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_37_State_House,2022,AK,State House,37,Alaska,general,NA,1,1,2022-11-30,State,alaska_house_district37_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_38_State_House,2022,AK,State House,38,Alaska,general,NA,2,1,2022-11-30,State,alaska_house_district38_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_39_State_House,2022,AK,State House,39,Alaska,general,NA,3,1,2022-11-30,State,alaska_house_district39_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_40_State_House,2022,AK,State House,40,Alaska,general,NA,1,1,2022-11-30,State,alaska_house_district40_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_At_Large_Governor,2022,AK,Governor / Lieutenant Governor,At_Large,Alaska,general,NA,5,1,2022-11-08,State,alaska_governor_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_At_Large_State_Senate,2022,AK,State Senate,At_Large,Alaska,general,NA,4,1,2022-11-30,State,alaska_senate_districtj_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_At_Large_US_Representative,2022,AK,U.S. House,At_Large,Alaska,general,NA,4,3,2022-11-08,Federal,alaska_us_representative_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2022_G_Alaska_At_Large_US_Senate,2022,AK,U.S. Senate,At_Large,Alaska,general,NA,4,3,2022-11-08,Federal,alaska_us_senator_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2004_G_San_Francisco_01_Board,2004,CA,City Council,1,San Francisco,general,NA,7,4,2004-11-02,Municipal,SanFran_BOS_Dis1_2004.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+CA_2004_G_San_Francisco_02_Board,2004,CA,City Council,2,San Francisco,general,NA,5,1,2004-11-02,Municipal,SanFran_BOS_Dis2_2004.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2004_G_San_Francisco_03_Board,2004,CA,City Council,3,San Francisco,general,NA,4,1,2004-11-02,Municipal,SanFran_BOS_Dis3_2004.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2004_G_San_Francisco_05_Board,2004,CA,City Council,5,San Francisco,general,NA,22,19,2004-11-02,Municipal,SanFran_BOS_Dis5_2004.txt,Pass,Pass,Not Pass,Pass,Pass,Not Pass
+CA_2004_G_San_Francisco_07_Board,2004,CA,City Council,7,San Francisco,general,NA,14,11,2004-11-02,Municipal,SanFran_BOS_Dis7_2004.txt,Pass,Pass,Not Pass,Pass,Pass,Not Pass
+CA_2004_G_San_Francisco_09_Board,2004,CA,City Council,9,San Francisco,general,NA,7,1,2004-11-02,Municipal,SanFran_BOS_Dis9_2004.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2004_G_San_Francisco_11_Board,2004,CA,City Council,11,San Francisco,general,NA,8,6,2004-11-02,Municipal,SanFran_BOS_Dis11_2004.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+CA_2005_S_San_Francisco_At_Large_CityAttorney,2005,CA,City Attorney,At_Large,San Francisco,special,NA,2,1,2005-11-08,County,SanFran_Attorney_2005.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2005_S_San_Francisco_At_Large_Recorder,2005,CA,Recorder,At_Large,San Francisco,special,NA,4,2,2005-11-08,County,SanFran_Assessor_2005.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2005_S_San_Francisco_At_Large_Treasurer,2005,CA,Treasurer,At_Large,San Francisco,special,NA,4,1,2005-11-08,County,SanFran_Treasurer_2005.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2006_G_San_Francisco_02_Board,2006,CA,City Council,2,San Francisco,general,NA,3,1,2006-11-07,Municipal,SanFran_BOS_Dis2_2006.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2006_G_San_Francisco_06_Board,2006,CA,City Council,6,San Francisco,general,NA,8,5,2006-11-07,Municipal,SanFran_BOS_Dis6_2006.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2006_G_San_Francisco_08_Board,2006,CA,City Council,8,San Francisco,general,NA,4,1,2006-11-07,Municipal,SanFran_BOS_Dis8_2006.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2006_G_San_Francisco_10_Board,2006,CA,City Council,10,San Francisco,general,NA,7,1,2006-11-07,Municipal,SanFran_BOS_Dis10_2006.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2006_G_San_Francisco_At_Large_PublicDefender,2006,CA,Public Defender,At_Large,San Francisco,general,NA,1,1,2006-11-07,County,SanFran_Public_Defend_2006.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2006_G_San_Francisco_At_Large_Recorder,2006,CA,Recorder,At_Large,San Francisco,general,NA,1,1,2006-11-07,County,SanFran_Assessor_2006.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2007_G_San_Francisco_At_Large_DistrictAttorney,2007,CA,District Attorney,At_Large,San Francisco,general,NA,2,1,2007-11-06,County,SanFran_Dis_Attorney_2007.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2007_G_San_Francisco_At_Large_Mayor,2007,CA,Mayor,At_Large,San Francisco,general,NA,18,1,2007-11-06,Municipal,SanFran_Mayor_2007.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2007_G_San_Francisco_At_Large_Sheriff,2007,CA,Sheriff,At_Large,San Francisco,general,NA,3,1,2007-11-06,County,SanFran_Sheriff_2007.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2008_G_San_Francisco_01_Board,2008,CA,City Council,1,San Francisco,general,NA,10,2,2008-11-04,Municipal,D1-Pass Report Final_2008.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2008_G_San_Francisco_03_Board,2008,CA,City Council,3,San Francisco,general,NA,10,6,2008-11-04,Municipal,D3-Pass Report Final_2008.txt,Pass,Pass,Pass,Pass,Pass,Not Pass
+CA_2008_G_San_Francisco_04_Board,2008,CA,City Council,4,San Francisco,general,NA,4,1,2008-11-04,Municipal,D4-Pass Report Final_2008.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2008_G_San_Francisco_09_Board,2008,CA,City Council,9,San Francisco,general,NA,7,3,2008-11-04,Municipal,D9-Pass Report Final_2008.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2008_G_San_Francisco_11_Board,2008,CA,City Council,11,San Francisco,general,NA,10,4,2008-11-04,Municipal,D11-Pass Report Final_2008.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2010_G_Berkeley_01_Council,2010,CA,City Council,1,Berkeley,general,NA,4,1,2010-11-02,Municipal,november-2-2010-pass-report-berkeley-council-member-dist-1.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2010_G_Berkeley_04_Council,2010,CA,City Council,4,Berkeley,general,NA,5,1,2010-11-02,Municipal,november-2-2010-pass-report-berkeley-council-member-dist-4.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2010_G_Berkeley_07_Council,2010,CA,City Council,7,Berkeley,general,NA,4,2,2010-11-02,Municipal,november-2-2010-pass-report-berkeley-council-member-dist-7.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2010_G_Berkeley_08_Council,2010,CA,City Council,8,Berkeley,general,NA,3,1,2010-11-02,Municipal,november-2-2010-pass-report-berkeley-council-member-dist-8.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2010_G_Berkeley_At_Large_CityAuditor,2010,CA,City Auditor,At_Large,Berkeley,general,NA,2,1,2010-11-02,Municipal,november-2-2010-pass-report-berkeley-city-auditor.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2010_G_Oakland_02_Council,2010,CA,City Council,2,Oakland,general,NA,3,1,2010-11-02,Municipal,november-2-2010-rcv-oakland-city-council-district-2-pass-report.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2010_G_Oakland_02_SchoolDirector,2010,CA,School Director,2,Oakland,general,NA,2,1,2010-11-02,School board,november-2-2010-rcv-oakland-school-director-district-2-pass-report.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2010_G_Oakland_04_Council,2010,CA,City Council,4,Oakland,general,NA,8,6,2010-11-02,Municipal,november-2-2010-rcv-oakland-city-council-district-4-pass-report.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+CA_2010_G_Oakland_04_SchoolDirector,2010,CA,School Director,4,Oakland,general,NA,3,1,2010-11-02,School board,november-2-2010-rcv-oakland-school-director-district-4-pass-report.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2010_G_Oakland_06_Council,2010,CA,City Council,6,Oakland,general,NA,4,1,2010-11-02,Municipal,november-2-2010-rcv-oakland-city-council-district-6-pass-report.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2010_G_Oakland_06_SchoolDirector,2010,CA,School Director,6,Oakland,general,NA,2,1,2010-11-02,School board,november-2-2010-rcv-oakland-school-director-district-6-pass-report.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2010_G_Oakland_At_Large_CityAuditor,2010,CA,City Auditor,At_Large,Oakland,general,NA,3,1,2010-11-02,Municipal,november-2-2010-pass-report-oakland-city-auditor.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2010_G_Oakland_At_Large_Mayor,2010,CA,Mayor,At_Large,Oakland,general,NA,10,9,2010-11-02,Municipal,november-2-2010-pass-report-oakland-mayor.txt,Pass,Pass,Pass,Pass,Pass,Not Pass
+CA_2010_G_San_Francisco_02_Board,2010,CA,City Council,2,San Francisco,general,NA,7,2,2010-11-02,Municipal,RCV-D2_2010.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2010_G_San_Francisco_06_Board,2010,CA,City Council,6,San Francisco,general,NA,15,11,2010-11-02,Municipal,RCV-D6_2010.txt,Pass,Pass,Not Pass,Pass,Pass,Not Pass
+CA_2010_G_San_Francisco_08_Board,2010,CA,City Council,8,San Francisco,general,NA,5,2,2010-11-02,Municipal,RCV-D8_2010.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2010_G_Sanleandro_01_Council,2010,CA,City Council,1,San Leandro,general,NA,4,1,2010-11-02,Municipal,nov-2-2010-pass-report-san-leandro-council-mem-dist-1.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2010_G_Sanleandro_03_Council,2010,CA,City Council,3,San Leandro,general,NA,2,1,2010-11-02,Municipal,nov-2-2010-pass-report-san-leandro-council-mem-dis-3.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2010_G_Sanleandro_05_Council,2010,CA,City Council,5,San Leandro,general,NA,3,1,2010-11-02,Municipal,nov-2-2010-pass-report-san-leandro-council-mem-dis-5.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2010_G_Sanleandro_At_Large_Mayor,2010,CA,Mayor,At_Large,San Leandro,general,NA,7,5,2010-11-02,Municipal,november-2-2010-pass-report-san-leandro-mayor.txt,Pass,Pass,Pass,Pass,Pass,Not Pass
+CA_2010_P_San_Francisco_04_Board,2010,CA,City Council,4,San Francisco,primary,NA,2,1,2010-11-02,Municipal,SanFran_BOS_Dis4_2010.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2011_G_San_Francisco_At_Large_DistrictAttorney,2011,CA,District Attorney,At_Large,San Francisco,general,NA,6,3,2011-11-08,County,RCV-DA_2011.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+CA_2011_G_San_Francisco_At_Large_Mayor,2011,CA,Mayor,At_Large,San Francisco,general,NA,16,11,2011-11-08,Municipal,RCV-Mayor_2011.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+CA_2011_G_San_Francisco_At_Large_Sheriff,2011,CA,Sheriff,At_Large,San Francisco,general,NA,5,3,2011-11-08,County,RCV-Sheriff_2011.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2012_G_Berkeley_02_Council,2012,CA,City Council,2,Berkeley,general,NA,3,1,2012-11-06,Municipal,nov-6-2012-pass-report-council-member-dist2.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2012_G_Berkeley_03_Council,2012,CA,City Council,3,Berkeley,general,NA,3,1,2012-11-06,Municipal,nov-6-2012-pass-report-council-member-dist3.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2012_G_Berkeley_05_Council,2012,CA,City Council,5,Berkeley,general,NA,2,1,2012-11-06,Municipal,nov-6-2012-pass-report-council-member-dist-5.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2012_G_Berkeley_06_Council,2012,CA,City Council,6,Berkeley,general,NA,3,1,2012-11-06,Municipal,nov-6-2012-pass-report-council-member-dist-6.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2012_G_Berkeley_At_Large_Mayor,2012,CA,Mayor,At_Large,Berkeley,general,NA,7,1,2012-11-06,Municipal,nov-6-2012-pass-report-mayor.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2012_G_Oakland_01_Council,2012,CA,City Council,1,Oakland,general,NA,8,7,2012-11-06,Municipal,nov-6-2012-pass-report-oakland-council-member-dist-1.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+CA_2012_G_Oakland_01_SchoolDirector,2012,CA,School Director,1,Oakland,general,NA,3,1,2012-11-06,School board,nov-6-2012-pass-report-oakland-school-director-dist-1.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2012_G_Oakland_03_Council,2012,CA,City Council,3,Oakland,general,NA,7,5,2012-11-06,Municipal,nov-6-2012-pass-report-oakland-council-member-dist-3.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+CA_2012_G_Oakland_03_SchoolDirector,2012,CA,School Director,3,Oakland,general,NA,4,2,2012-11-06,School board,nov-6-2012-pass-report-oakland-school-director-dist-3.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2012_G_Oakland_05_SchoolDirector,2012,CA,School Director,5,Oakland,general,NA,3,1,2012-11-06,School board,nov-6-2012-pass-report-oakland-school-director-dist-5.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2012_G_Oakland_07_Council,2012,CA,City Council,7,Oakland,general,NA,3,1,2012-11-06,Municipal,nov-6-2012-pass-report-oakland-council-member-dist-7.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2012_G_Oakland_07_SchoolDirector,2012,CA,School Director,7,Oakland,general,NA,3,1,2012-11-06,School board,nov-6-2012-pass-report-oakland-school-director-dist-7.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2012_G_Oakland_At_Large_CityAttorney,2012,CA,City Attorney,At_Large,Oakland,general,NA,3,1,2012-11-06,Municipal,nov-6-2012-pass-report-oakland-city-attorney.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2012_G_Oakland_At_Large_Council,2012,CA,City Council,At_Large,Oakland,general,NA,6,4,2012-11-06,Municipal,nov-6-2012-pass-report-oakland-council-member-at-large.txt,Pass,Pass,Pass,Pass,Pass,Not Pass
+CA_2012_G_San_Francisco_01_Board,2012,CA,City Council,1,San Francisco,general,NA,4,1,2012-11-06,Municipal,SanFran_BOS_Dis1_2012.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2012_G_San_Francisco_03_Board,2012,CA,City Council,3,San Francisco,general,NA,5,1,2012-11-06,Municipal,SanFran_BOS_Dis3_2012.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2012_G_San_Francisco_05_Board,2012,CA,City Council,5,San Francisco,general,NA,9,5,2012-11-06,Municipal,D5-PassReport.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2012_G_San_Francisco_07_Board,2012,CA,City Council,7,San Francisco,general,NA,10,5,2012-11-06,Municipal,D7-PassReport.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2012_G_San_Francisco_09_Board,2012,CA,City Council,9,San Francisco,general,NA,3,1,2012-11-06,Municipal,SanFran_BOS_Dis9_2012.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2012_G_San_Francisco_11_Board,2012,CA,City Council,11,San Francisco,general,NA,2,1,2012-11-06,Municipal,SanFran_BOS_Dis11_2012.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2012_G_Sanleandro_02_Council,2012,CA,City Council,2,San Leandro,general,NA,4,3,2012-11-06,Municipal,nov-6-2012-pass-report-san-leandro-council-member-dist-2.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2012_G_Sanleandro_04_Council,2012,CA,City Council,4,San Leandro,general,NA,5,3,2012-11-06,Municipal,nov-6-2012-pass-report-san-leandro-council-member-dist-4.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2012_G_Sanleandro_06_Council,2012,CA,City Council,6,San Leandro,general,NA,3,1,2012-11-06,Municipal,nov-6-2012-pass-report-san-leandro-council-member-dist-6.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2014_G_Berkeley_01_Council,2014,CA,City Council,1,Berkeley,general,NA,4,1,2014-11-04,Municipal,nov-4-2014-pass-report-city-council-berkeley-dist1.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2014_G_Berkeley_07_Council,2014,CA,City Council,7,Berkeley,general,NA,3,1,2014-11-04,Municipal,nov-4-2014-pass-report-city-council-berkeley-dist7.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2014_G_Berkeley_08_Council,2014,CA,City Council,8,Berkeley,general,NA,5,4,2014-11-04,Municipal,nov-4-2014-pass-report-city-council-berkeley-dist8.txt,Pass,Pass,Not Pass,Pass,Pass,Not Pass
+CA_2014_G_Berkeley_At_Large_CityAuditor,2014,CA,City Auditor,At_Large,Berkeley,general,NA,1,1,2014-11-04,Municipal,nov-4-2014-pass-report-city-auditor-berkeley.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2014_G_Oakland_02_Council,2014,CA,City Council,2,Oakland,general,NA,6,4,2014-11-04,Municipal,nov-4-2014-pass-report-city-council-oakland-dist2.txt,Pass,Pass,Not Pass,Pass,Pass,Not Pass
+CA_2014_G_Oakland_02_SchoolDirector,2014,CA,School Director,2,Oakland,general,NA,2,1,2014-11-04,School board,nov-4-2014-pass-report-school-director-oakland-dist2.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2014_G_Oakland_04_Council,2014,CA,City Council,4,Oakland,general,NA,4,1,2014-11-04,Municipal,nov-4-2014-pass-report-city-council-oakland-dist4.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2014_G_Oakland_04_SchoolDirector,2014,CA,School Director,4,Oakland,general,NA,5,4,2014-11-04,School board,nov-4-2014-pass-report-school-director-oakland-dist4.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+CA_2014_G_Oakland_06_Council,2014,CA,City Council,6,Oakland,general,NA,6,5,2014-11-04,Municipal,nov-4-2014-pass-report-city-council-oakland-dist6.txt,Pass,Pass,Not Pass,Pass,Pass,Not Pass
+CA_2014_G_Oakland_06_SchoolDirector,2014,CA,School Director,6,Oakland,general,NA,3,1,2014-11-04,School board,nov-4-2014-pass-report-school-director-oakland-dist6.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2014_G_Oakland_At_Large_CityAuditor,2014,CA,City Auditor,At_Large,Oakland,general,NA,3,1,2014-11-04,Municipal,nov-4-2014-pass-report-city-auditor-oakland.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2014_G_San_Francisco_10_Board,2014,CA,City Council,10,San Francisco,general,NA,6,2,2014-11-04,Municipal,RCV_D10.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2014_G_Sanleandro_01_Council,2014,CA,City Council,1,San Leandro,general,NA,4,4,2014-11-04,Municipal,nov-4-2014-comp-results-report-city-council-san-leandro-d1.txt,Pass,Pass,Not Pass,Pass,Pass,Not Pass
+CA_2014_G_Sanleandro_05_Council,2014,CA,City Council,5,San Leandro,general,NA,4,1,2014-11-04,Municipal,nov-4-2014-pass-report-city-council-san-leandro-d5.txt,Pass,Pass,Not Pass,Pass,Pass,Not Pass
+CA_2014_G_Sanleandro_At_Large_Mayor,2014,CA,Mayor,At_Large,San Leandro,general,NA,5,3,2014-11-04,Municipal,nov-4-2014-pass-report-mayor-san-leandro.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2015_G_San_Francisco_03_Board,2015,CA,City Council,3,San Francisco,general,NA,4,2,2015-11-03,Municipal,20151119_d3.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2015_G_San_Francisco_At_Large_Mayor,2015,CA,Mayor,At_Large,San Francisco,general,NA,12,2,2015-11-03,Municipal,20151119_mayor.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+CA_2015_G_San_Francisco_At_Large_Sheriff,2015,CA,Sheriff,At_Large,San Francisco,general,NA,4,2,2015-11-03,County,20151119_sheriff.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+CA_2016_G_Berkeley_03_Council,2016,CA,City Council,3,Berkeley,general,NA,4,1,2016-11-08,Municipal,nov-8-2016-pass-report-councilmember-dist3.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2016_G_Berkeley_05_Council,2016,CA,City Council,5,Berkeley,general,NA,2,1,2016-11-08,Municipal,nov-8-2016-pass-report-councilmember-dist5.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2016_G_Berkeley_06_Council,2016,CA,City Council,6,Berkeley,general,NA,4,1,2016-11-08,Municipal,nov-8-2016-pass-report-councilmember-dist6.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2016_G_Berkeley_At_Large_Mayor,2016,CA,Mayor,At_Large,Berkeley,general,NA,9,4,2016-11-08,Municipal,nov-8-2016-pass-results-report-mayor.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2016_G_Oakland_01_Council,2016,CA,City Council,1,Oakland,general,NA,3,1,2016-11-08,Municipal,nov-8-2016-pass-report-city-council-dist1-oak.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2016_G_Oakland_01_SchoolDirector,2016,CA,School Director,1,Oakland,general,NA,2,1,2016-11-08,School board,nov-8-2016-pass-report-school-director-dist1-oak.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2016_G_Oakland_03_SchoolDirector,2016,CA,School Director,3,Oakland,general,NA,5,5,2016-11-08,School board,nov-8-2016-pass-report-school-director-dist3-oak.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+CA_2016_G_Oakland_05_Council,2016,CA,City Council,5,Oakland,general,NA,3,1,2016-11-08,Municipal,nov-8-2016-pass-report-city-council-dist5-oak.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2016_G_Oakland_05_SchoolDirector,2016,CA,School Director,5,Oakland,general,NA,5,4,2016-11-08,School board,nov-8-2016-pass-report-school-director-dist5-oak.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2016_G_Oakland_07_Council,2016,CA,City Council,7,Oakland,general,NA,4,1,2016-11-08,Municipal,nov-8-2016-pass-report-city-council-dist7-oak.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2016_G_Oakland_07_SchoolDirector,2016,CA,School Director,7,Oakland,general,NA,3,1,2016-11-08,School board,nov-8-2016-pass-report-school-director-dist7-oak.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2016_G_Oakland_At_Large_CityAttorney,2016,CA,City Attorney,At_Large,Oakland,general,NA,1,1,2016-11-08,Municipal,nov-8-2016-pass-report-city-attorney-oak.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+CA_2016_G_Oakland_At_Large_Council,2016,CA,City Council,At_Large,Oakland,general,NA,5,1,2016-11-08,Municipal,nov-8-2016-pass-report-city-council-at-large-oak.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2016_G_San_Francisco_03_Board,2016,CA,City Council,3,San Francisco,general,NA,3,1,2016-11-08,Municipal,20161206_d3.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2016_G_San_Francisco_05_Board,2016,CA,City Council,5,San Francisco,general,NA,3,1,2016-11-08,Municipal,20161206_d5.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2016_G_San_Francisco_07_Board,2016,CA,City Council,7,San Francisco,general,NA,6,4,2016-11-08,Municipal,20161206_d7.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2016_G_San_Francisco_09_Board,2016,CA,City Council,9,San Francisco,general,NA,5,3,2016-11-08,Municipal,20161206_d9.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2016_G_San_Francisco_11_Board,2016,CA,City Council,11,San Francisco,general,NA,6,4,2016-11-08,Municipal,20161206_d11.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2016_G_San_Leandro_04_Council,2016,CA,City Council,4,San Leandro,general,NA,1,1,2016-11-08,Municipal,nov-8-2016-pass-report-city-council-dist4-sl.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+CA_2016_G_Sanleandro_02_Council,2016,CA,City Council,2,San Leandro,general,NA,3,1,2016-11-08,Municipal,nov-8-2016-pass-report-city-council-dist2-sl.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2016_G_Sanleandro_06_Council,2016,CA,City Council,6,San Leandro,general,NA,2,1,2016-11-08,Municipal,nov-8-2016-pass-report-city-council-dist6-sl.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+CA_2018_G_San_Francisco_02_Board,2018,CA,City Council,2,San Francisco,general,NA,5,3,2018-11-06,Municipal,20181127_d2.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2018_G_San_Francisco_04_Board,2018,CA,City Council,4,San Francisco,general,NA,9,7,2018-11-06,Municipal,20181127_d4.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2018_G_San_Francisco_06_Board,2018,CA,City Council,6,San Francisco,general,NA,4,3,2018-11-06,Municipal,20181127_d6.txt,Pass,Pass,Not Pass,Pass,Pass,Not Pass
+CA_2018_G_San_Francisco_08_Board,2018,CA,City Council,8,San Francisco,general,NA,3,1,2018-11-06,Municipal,20181127_d8.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2018_G_San_Francisco_10_Board,2018,CA,City Council,10,San Francisco,general,NA,8,6,2018-11-06,Municipal,20181127_d10.txt,Pass,Pass,Pass,Pass,Pass,Not Pass
+CA_2018_G_San_Francisco_At_Large_PublicDefender,2018,CA,Public Defender,At_Large,San Francisco,general,NA,2,1,2018-11-06,County,20181127_defender.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2018_G_San_Francisco_At_Large_Recorder,2018,CA,Recorder,At_Large,San Francisco,general,NA,3,1,2018-11-06,County,20181127_assessor.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2019_G_San_Francisco_At_Large_DistrictAttorney,2019,CA,District Attorney,At_Large,San Francisco,general,NA,4,3,2019-11-05,County,20191125_da_detail.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2019_G_San_Francisco_At_Large_Mayor,2019,CA,Mayor,At_Large,San Francisco,general,NA,7,6,2019-11-05,Municipal,20191125_mayor_detail.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2019_G_San_Francisco_05_Board,2019,CA,City Council,5,San Francisco,general,NA,4,3,2019-11-05,Municipal,20191125_d5_detail.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2020_G_Oakland_01_Council,2020,CA,City Council,1,Oakland,general,NA,3,1,2020-11-03,Municipal,Oakland_2020_city_d1.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2020_G_Oakland_05_Council,2020,CA,City Council,5,Oakland,general,NA,3,1,2020-11-03,Municipal,Oakland_2020_city_d5.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2020_G_Oakland_07_Council,2020,CA,City Council,7,Oakland,general,NA,5,4,2020-11-03,Municipal,Oakland_2020_city_d7.txt,Pass,Pass,Pass,Pass,Pass,Not Pass
+CA_2020_G_Oakland_At_Large_CityAttorney,2020,CA,City Attorney,At_Large,Oakland,general,NA,2,1,2020-11-03,Municipal,Oakland_2020_cityattorney.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2020_G_San_Francisco_01_Board,2020,CA,City Council,1,San Francisco,general,NA,7,6,2020-11-03,Municipal,20201201_d1_detail.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2020_G_San_Francisco_03_Board,2020,CA,City Council,3,San Francisco,general,NA,4,3,2020-11-03,Municipal,20201201_d3_detail.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2020_G_San_Francisco_05_Board,2020,CA,City Council,5,San Francisco,general,NA,4,3,2020-11-03,Municipal,20201201_d5_detail.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2020_G_San_Francisco_07_Board,2020,CA,City Council,7,San Francisco,general,NA,7,6,2020-11-03,Municipal,20201201_d7_detail.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2020_G_San_Francisco_09_Board,2020,CA,City Council,9,San Francisco,general,NA,2,1,2020-11-03,Municipal,20201201_d9_detail.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2020_G_San_Francisco_11_Board,2020,CA,City Council,11,San Francisco,general,NA,4,3,2020-11-03,Municipal,20201201_d11_detail.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2022_G_Berkeley_01_Council,2022,CA,City Council,1,Berkeley,general,NA,3,2,2022-11-08,Municipal,Berkeley_2022_city_d1.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2022_G_Berkeley_04_Council,2022,CA,City Council,4,Berkeley,general,NA,1,1,2022-11-08,Municipal,Berkeley_2022_city_d4.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2022_G_Berkeley_07_Council,2022,CA,City Council,7,Berkeley,general,NA,1,1,2022-11-08,Municipal,Berkeley_2022_city_d7.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2022_G_Berkeley_08_Council,2022,CA,City Council,8,Berkeley,general,NA,5,4,2022-11-08,Municipal,Berkeley_2022_city_d8.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2022_G_Berkeley_At_Large_CityAuditor,2022,CA,City Auditor,At_Large,Berkeley,general,NA,1,1,2022-11-08,Municipal,Berkeley_2022_cityauditor.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2022_G_Oakland_02_Council,2022,CA,City Council,2,Oakland,general,NA,2,1,2022-11-08,Municipal,Oakland_2022_city_d2.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2022_G_Oakland_02_SchoolDirector,2022,CA,School Director,2,Oakland,general,NA,3,2,2022-11-08,School board,Oakland_2022_school_d2.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2022_G_Oakland_04_Council,2022,CA,City Council,4,Oakland,general,NA,2,1,2022-11-08,Municipal,Oakland_2022_city_d4.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2022_G_Oakland_04_SchoolDirector,2022,CA,School Director,4,Oakland,general,NA,3,2,2022-11-08,School board,Oakland_2022_school_d4.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2022_G_Oakland_06_Council,2022,CA,City Council,6,Oakland,general,NA,4,3,2022-11-08,Municipal,Oakland_2022_city_d6.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2022_G_Oakland_06_SchoolDirector,2022,CA,School Director,6,Oakland,general,NA,3,2,2022-11-08,School board,Oakland_2022_school_d6.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2022_G_Oakland_At_Large_CityAuditor,2022,CA,City Auditor,At_Large,Oakland,general,NA,1,1,2022-11-08,Municipal,Oakland_2022_city_cityauditor.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2022_G_Oakland_At_Large_Mayor,2022,CA,Mayor,At_Large,Oakland,general,NA,10,9,2022-11-08,Municipal,Oakland_2022_mayor.txt,Pass,Pass,Pass,Pass,Pass,Not Pass
+CA_2022_G_San_Francisco_04_Board,2022,CA,City Council,4,San Francisco,general,NA,2,1,2022-11-08,Municipal,d4_detail.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2022_G_San_Francisco_06_Board,2022,CA,City Council,6,San Francisco,general,NA,4,3,2022-11-08,Municipal,d6_detail.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2022_G_San_Francisco_08_Board,2022,CA,City Council,8,San Francisco,general,NA,2,1,2022-11-08,Municipal,d8_detail.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2022_G_San_Francisco_10_Board,2022,CA,City Council,10,San Francisco,general,NA,2,1,2022-11-08,Municipal,d10_detail.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2022_G_San_Francisco_At_Large_DistrictAttorney,2022,CA,District Attorney,At_Large,San Francisco,general,NA,4,3,2022-11-08,County,da_detail.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2022_G_San_Francisco_At_Large_PublicDefender,2022,CA,Public Defender,At_Large,San Francisco,general,NA,2,1,2022-11-08,County,defender_detail.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2022_G_Sanleandro_01_Council,2022,CA,City Council,1,San Leandro,general,NA,3,2,2022-11-08,Municipal,SanLeandro_2022_city_d1.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2022_G_Sanleandro_03_Council,2022,CA,City Council,3,San Leandro,general,NA,1,1,2022-11-08,Municipal,SanLeandro_2022_city_d3.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2022_G_Sanleandro_05_Council,2022,CA,City Council,5,San Leandro,general,NA,2,1,2022-11-08,Municipal,SanLeandro_2022_city_d5.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2022_G_Sanleandro_At_Large_Mayor,2022,CA,Mayor,At_Large,San Leandro,general,NA,4,3,2022-11-08,Municipal,SanLeandro_2022_mayor.txt,Pass,Pass,Pass,Pass,Pass,Not Pass
+CA_2024_G_Berkeley_02_Council,2024,CA,City Council,2,Berkeley,general,NA,2,1,2024-11-05,Municipal,Berkeley_2024_council_d2.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2024_G_Berkeley_03_Council,2024,CA,City Council,3,Berkeley,general,NA,3,2,2024-11-05,Municipal,Berkeley_2024_council_d3.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2024_G_Berkeley_05_Council,2024,CA,City Council,5,Berkeley,general,NA,3,2,2024-11-05,Municipal,Berkeley_2024_council_d5.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2024_G_Berkeley_06_Council,2024,CA,City Council,6,Berkeley,general,NA,2,1,2024-11-05,Municipal,Berkeley_2024_council_d6.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2024_G_Berkeley_At_Large_Mayor,2024,CA,Mayor,At_Large,Berkeley,general,NA,5,4,2024-11-05,Municipal,2024_1105_berkeley_mayor.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2024_G_Oakland_01_Council,2024,CA,City Council,1,Oakland,general,NA,3,2,2024-11-05,Municipal,Oakland_2024_city_d1.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2024_G_Oakland_01_SchoolDirector,2024,CA,School Director,1,Oakland,general,NA,2,1,2024-11-05,School board,Oakland_2024_school_d1.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2024_G_Oakland_03_Council,2024,CA,City Council,3,Oakland,general,NA,6,5,2024-11-05,Municipal,Oakland_2024_city_d3.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2024_G_Oakland_03_SchoolDirector,2024,CA,School Director,3,Oakland,general,NA,2,1,2024-11-05,School board,Oakland_2024_school_d3.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2024_G_Oakland_05_Council,2024,CA,City Council,5,Oakland,general,NA,3,2,2024-11-05,Municipal,Oakland_2024_city_d5.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2024_G_Oakland_05_SchoolDirector,2024,CA,School Director,5,Oakland,general,NA,2,1,2024-11-05,School board,Oakland_2024_school_d5.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2024_G_Oakland_07_Council,2024,CA,City Council,7,Oakland,general,NA,4,3,2024-11-05,Municipal,Oakland_2024_city_d7.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2024_G_Oakland_07_SchoolDirector,2024,CA,School Director,7,Oakland,general,NA,2,1,2024-11-05,School board,Oakland_2024_school_d7.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2024_G_Oakland_At_Large_CityAttorney,2024,CA,City Attorney,At_Large,Oakland,general,NA,2,1,2024-11-05,Municipal,Oakland_2024_cityattorney.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2024_G_Oakland_At_Large_Council,2024,CA,City Council,At_Large,Oakland,general,NA,10,9,2024-11-05,Municipal,Oakland_2024_city_atlarge.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2024_G_San_Francisco_09_Board,2024,CA,City Council,9,San Francisco,general,NA,7,6,2024-11-05,Municipal,2024_1105_d9_detail.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2024_G_San_Francisco_11_Board,2024,CA,City Council,11,San Francisco,general,NA,7,6,2024-11-05,Municipal,2024_1105_d11_detail.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2024_G_San_Francisco_At_Large_CityAttorney,2024,CA,City Attorney,At_Large,San Francisco,general,NA,2,1,2024-11-05,County,2024_1105_cityattorney_detail.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2024_G_San_Francisco_At_Large_DistrictAttorney,2024,CA,District Attorney,At_Large,San Francisco,general,NA,2,1,2024-11-05,County,2024_1105_districtattorney_detail.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CA_2024_G_San_Francisco_At_Large_Mayor,2024,CA,Mayor,At_Large,San Francisco,general,NA,14,14,2024-11-05,Municipal,2024_1105_mayor_detail.txt,Pass,Pass,Not Pass,Pass,Pass,Not Pass
+CA_2024_G_San_Francisco_At_Large_Sheriff,2024,CA,Sheriff,At_Large,San Francisco,general,NA,2,1,2024-11-05,County,2024_1105_sheriff_detail.txt,Pass,Pass,Pass,Pass,Pass,Pass
+CO_2023_G_Boulder_At_Large_Mayor,2023,CO,Mayor,At_Large,Boulder,general,NA,4,2,2023-11-16,Municipal,Boulder_2023_Mayor_RCV.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MA_2021_G_Easthampton_At_Large_Mayor,2021,MA,Mayor,At_Large,Easthampton,general,NA,5,1,2021-11-02,Municipal,2021_Mayor_MA_RCV_Easthampton.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+MD_2022_G_Takoma_Park_01_Council,2022,MD,City Council,1,Takoma Park,general,NA,4,1,2022-11-08,Municipal,Takoma_Park_W1.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MD_2022_G_Takoma_Park_02_Council,2022,MD,City Council,2,Takoma Park,general,NA,2,1,2022-11-08,Municipal,Takoma_ParkW2.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MD_2022_G_Takoma_Park_03_Council,2022,MD,City Council,3,Takoma Park,general,NA,3,2,2022-11-08,Municipal,Takoma_ParkW3.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MD_2022_G_Takoma_Park_04_Council,2022,MD,City Council,4,Takoma Park,general,NA,2,1,2022-11-08,Municipal,Takoma_ParkW4.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MD_2022_G_Takoma_Park_05_Council,2022,MD,City Council,5,Takoma Park,general,NA,3,2,2022-11-08,Municipal,Takoma_ParkW5.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MD_2022_G_Takoma_Park_06_Council,2022,MD,City Council,6,Takoma Park,general,NA,5,2,2022-11-08,Municipal,Takoma_ParkW6.txt,Pass,Pass,Pass,Pass,Pass,Pass
+ME_2018_G_Maine_02_US_Representative,2018,ME,U.S. House,2,Maine,general,NA,4,2,2018-11-06,Federal,maine_congressionaldistrict2_2018.txt,Pass,Pass,Pass,Pass,Pass,Pass
+ME_2018_P_Maine_02_Congressional_DEM,2018,ME,U.S. House,2,Maine,primary,Democratic,4,2,2018-06-12,Federal,maine_democraticprimaryforcd2_2018.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+ME_2018_P_Maine_At_Large_Governor_DEM,2018,ME,Governor,At_Large,Maine,primary,Democratic,8,4,2018-06-12,State,maine_democraticprimaryforgovernor_2018.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+ME_2020_P_Maine_02_CG_REP,2020,ME,U.S. House,2,Maine,primary,Republican,3,2,2020-07-14,Federal,Main_Repub_Primary.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+ME_2020_P_Maine_11_State_Senate_DEM,2020,ME,State Senate,11,Maine,primary,Democratic,3,2,2020-07-14,State,maine_democraticcandidateformainestatesenatedistrict11_2020.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+ME_2020_P_Maine_41_State_Representative_DEM,2020,ME,State Representative,41,Maine,primary,Democratic,3,2,2020-07-14,State,Maine_Demo_Primary_2020_Dis_41.txt,Pass,Pass,Pass,Pass,Pass,Pass
+ME_2020_P_Maine_49_State_Representative_DEM,2020,ME,State Representative,49,Maine,primary,Democratic,3,2,2020-07-14,State,maine_democraticcandidateformainestatehousedistrict49_2020.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+ME_2020_P_Maine_90_State_Representative_DEM,2020,ME,State Representative,90,Maine,primary,Democratic,3,2,2020-07-14,State,Maine_demo_primary_dis_90.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+ME_2021_G_Portland_At_Large_Charter_Commissioner,2021,ME,Charter Commissioner,At_Large,Portland,general,NA,10,9,2021-06-08,School board,portland_charter_2021.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+ME_2022_G_Maine_02_US_Representative,2022,ME,U.S. House,2,Maine,general,NA,4,2,2022-11-08,Federal,Main_RCV_Congress_Rep_Dis_2_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+ME_2022_G_Portland_03_SchoolBoard,2022,ME,School Board,3,Portland,general,NA,3,2,2022-11-08,School board,portland_schoolboarddistrict3_2022.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+ME_2022_G_Portland_At_Large_SchoolBoard,2022,ME,School Board,At_Large,Portland,general,NA,7,6,2022-06-15,School board,portland_schoolboardal_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+ME_2022_G_Portland_D5_SchoolBoard,2022,ME,School Board,D5,Portland,general,NA,5,5,2022-06-15,School board,portland_schoolboarddistrict5_2022.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2009_G_Minneapolis_01_Council,2009,MN,City Council,1,Minneapolis,general,NA,5,1,2009-11-03,Municipal,mpls_2009_council_ward_01.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2009_G_Minneapolis_02_Council,2009,MN,City Council,2,Minneapolis,general,NA,3,1,2009-11-03,Municipal,mpls_2009_council_ward_02.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2009_G_Minneapolis_02_ParkBoard,2009,MN,Park Board,2,Minneapolis,general,NA,3,1,2009-11-03,Municipal,mpls_2009_park_board_2.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2009_G_Minneapolis_03_Council,2009,MN,City Council,3,Minneapolis,general,NA,5,1,2009-11-03,Municipal,mpls_2009_council_ward_03.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2009_G_Minneapolis_03_ParkBoard,2009,MN,Park Board,3,Minneapolis,general,NA,3,1,2009-11-03,Municipal,mpls_2009_park_board_3.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2009_G_Minneapolis_05_Council,2009,MN,City Council,5,Minneapolis,general,NA,12,2,2009-11-03,Municipal,cleaned_mpls_ward5_2009_results_updated.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2009_G_Minneapolis_07_Council,2009,MN,City Council,7,Minneapolis,general,NA,4,1,2009-11-03,Municipal,mpls_2009_council_ward_07.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2009_G_Minneapolis_08_Council,2009,MN,City Council,8,Minneapolis,general,NA,5,1,2009-11-03,Municipal,mpls_2009_council_ward_08.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2009_G_Minneapolis_09_Council,2009,MN,City Council,9,Minneapolis,general,NA,4,1,2009-11-03,Municipal,mpls_2009_council_ward_09.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2009_G_Minneapolis_10_Council,2009,MN,City Council,10,Minneapolis,general,NA,5,1,2009-11-03,Municipal,mpls_2009_council_ward_10.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2009_G_Minneapolis_11_Council,2009,MN,City Council,11,Minneapolis,general,NA,4,1,2009-11-03,Municipal,mpls_2009_council_ward_11.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2009_G_Minneapolis_12_Council,2009,MN,City Council,12,Minneapolis,general,NA,5,1,2009-11-03,Municipal,mpls_2009_council_ward_12.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2009_G_Minneapolis_13_Council,2009,MN,City Council,13,Minneapolis,general,NA,4,1,2009-11-03,Municipal,mpls_2009_council_ward_13.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2009_G_Minneapolis_At_Large_Mayor,2009,MN,Mayor,At_Large,Minneapolis,general,NA,12,1,2009-11-03,Municipal,"mpls_2009_mayor_,.txt",Pass,Pass,Pass,Pass,Pass,Pass
+MN_2009_G_Minneapolis_01_ParkBoard,2009,MN,Park Board,1,Minneapolis,general,NA,4,1,2009-11-03,Municipal,mpls_2009_park_board_1.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2009_G_Minneapolis_04_ParkBoard,2009,MN,Park Board,4,Minneapolis,general,NA,2,1,2009-11-03,Municipal,mpls_2009_park_board_4.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2009_G_Minneapolis_05_ParkBoard,2009,MN,Park Board,5,Minneapolis,general,NA,5,2,2009-11-03,Municipal,cleaned_mpls_2009_park_board_5.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+MN_2009_G_Minneapolis_06_ParkBoard,2009,MN,Park Board,6,Minneapolis,general,NA,4,2,2009-11-03,Municipal,cleaned_mpls_district6_2009_results.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2013_G_Minneapolis_01_Council,2013,MN,City Council,1,Minneapolis,general,NA,4,1,2013-11-05,Municipal,mpls_2013_council_ward_01.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2013_G_Minneapolis_02_Council,2013,MN,City Council,2,Minneapolis,general,NA,3,1,2013-11-05,Municipal,mpls_2013_council_ward_02.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2013_G_Minneapolis_02_ParkBoard,2013,MN,Park Board,2,Minneapolis,general,NA,3,1,2013-11-05,Municipal,mpls_2013_park_board_2.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2013_G_Minneapolis_03_Council,2013,MN,City Council,3,Minneapolis,general,NA,4,1,2013-11-05,Municipal,mpls_2013_council_ward_03.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2013_G_Minneapolis_03_ParkBoard,2013,MN,Park Board,3,Minneapolis,general,NA,3,1,2013-11-05,Municipal,mpls_2013_park_board_3.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+MN_2013_G_Minneapolis_04_Council,2013,MN,City Council,4,Minneapolis,general,NA,4,1,2013-11-05,Municipal,mpls_2013_council_ward_04.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2013_G_Minneapolis_04_ParkBoard,2013,MN,Park Board,4,Minneapolis,general,NA,3,1,2013-11-05,Municipal,mpls_2013_park_board_4.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2013_G_Minneapolis_05_Council,2013,MN,City Council,5,Minneapolis,general,NA,4,2,2013-11-05,Municipal,cleaned_mpls_ward5_2013_results.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2013_G_Minneapolis_06_Council,2013,MN,City Council,6,Minneapolis,general,NA,6,1,2013-11-05,Municipal,mpls_2013_council_ward_06.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2013_G_Minneapolis_06_ParkBoard,2013,MN,Park Board,6,Minneapolis,general,NA,3,1,2013-11-05,Municipal,mpls_2013_park_board_6.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2013_G_Minneapolis_07_Council,2013,MN,City Council,7,Minneapolis,general,NA,2,1,2013-11-05,Municipal,mpls_2013_council_ward_07.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+MN_2013_G_Minneapolis_08_Council,2013,MN,City Council,8,Minneapolis,general,NA,2,1,2013-11-05,Municipal,mpls_2013_council_ward_08.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+MN_2013_G_Minneapolis_09_Council,2013,MN,City Council,9,Minneapolis,general,NA,6,2,2013-11-05,Municipal,cleaned_mpls_2013_council_ward_13.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+MN_2013_G_Minneapolis_10_Council,2013,MN,City Council,10,Minneapolis,general,NA,5,1,2013-11-05,Municipal,mpls_2013_council_ward_10.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2013_G_Minneapolis_11_Council,2013,MN,City Council,11,Minneapolis,general,NA,4,1,2013-11-05,Municipal,mpls_2013_council_ward_11.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2013_G_Minneapolis_12_Council,2013,MN,City Council,12,Minneapolis,general,NA,5,1,2013-11-05,Municipal,mpls_2013_council_ward_12.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2013_G_Minneapolis_13_Council,2013,MN,City Council,13,Minneapolis,general,NA,5,2,2013-11-05,Municipal,cleaned_mpls_2013_council_ward_2013.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2013_G_Minneapolis_At_Large_Tax_Board,2013,MN,Tax Board,At_Large,Minneapolis,general,NA,5,1,2013-11-05,Municipal,"mpls_2013_bet_,.txt",Pass,Pass,Pass,Pass,Pass,Pass
+MN_2013_G_Minneapolis_01_ParkBoard,2013,MN,Park Board,1,Minneapolis,general,NA,2,1,2013-11-05,Municipal,mpls_2013_park_board_1.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+MN_2013_G_Minneapolis_05_ParkBoard,2013,MN,Park Board,5,Minneapolis,general,NA,2,1,2013-11-05,Municipal,mpls_2013_park_board_5.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+MN_2017_G_Minneapolis_01_Council,2017,MN,City Council,1,Minneapolis,general,NA,4,3,2017-11-07,Municipal,2017-Ward-1-Results-Summary.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2017_G_Minneapolis_01_ParkBoard,2017,MN,Park Board,1,Minneapolis,general,NA,4,3,2017-11-07,Municipal,2017-Park-Board-District-1-Results-Summary.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2017_G_Minneapolis_02_Council,2017,MN,City Council,2,Minneapolis,general,NA,2,1,2017-11-07,Municipal,mpls_2017_council_ward_02.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+MN_2017_G_Minneapolis_02_ParkBoard,2017,MN,Park Board,2,Minneapolis,general,NA,3,1,2017-11-07,Municipal,mpls_2017_park_board_2.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2017_G_Minneapolis_03_Council,2017,MN,City Council,3,Minneapolis,general,NA,5,4,2017-11-07,Municipal,2017-Ward-3-Results-Summary.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2017_G_Minneapolis_03_ParkBoard,2017,MN,Park Board,3,Minneapolis,general,NA,3,2,2017-11-07,Municipal,2017-Park-District-3-RCV-Tabulation-Summary.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2017_G_Minneapolis_04_Council,2017,MN,City Council,4,Minneapolis,general,NA,5,3,2017-11-07,Municipal,2017-Ward-4-Results-Summary.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2017_G_Minneapolis_05_Council,2017,MN,City Council,5,Minneapolis,general,NA,5,2,2017-11-07,Municipal,2017-Ward-5-RCV-Tabulation-Summary.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2017_G_Minneapolis_06_Council,2017,MN,City Council,6,Minneapolis,general,NA,5,1,2017-11-07,Municipal,2017_City_Council_Ward_06.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2017_G_Minneapolis_06_ParkBoard,2017,MN,Park Board,6,Minneapolis,general,NA,4,2,2017-11-07,Municipal,2017-Park-District-6-RCV-Tabulation-Summary.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2017_G_Minneapolis_07_Council,2017,MN,City Council,7,Minneapolis,general,NA,5,1,2017-11-07,Municipal,mpls_2017_council_ward_07.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2017_G_Minneapolis_08_Council,2017,MN,City Council,8,Minneapolis,general,NA,5,1,2017-11-07,Municipal,mpls_2017_council_ward_08.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2017_G_Minneapolis_09_Council,2017,MN,City Council,9,Minneapolis,general,NA,5,3,2017-11-07,Municipal,2017-Ward-9-Race-Results-Summary.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+MN_2017_G_Minneapolis_10_Council,2017,MN,City Council,10,Minneapolis,general,NA,5,1,2017-11-07,Municipal,mpls_2017_council_ward_10.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2017_G_Minneapolis_11_Council,2017,MN,City Council,11,Minneapolis,general,NA,4,3,2017-11-07,Municipal,2017-Ward-11-Results-Summary.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2017_G_Minneapolis_12_Council,2017,MN,City Council,12,Minneapolis,general,NA,4,1,2017-11-07,Municipal,mpls_2017_council_ward_12.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2017_G_Minneapolis_13_Council,2017,MN,City Council,13,Minneapolis,general,NA,3,1,2017-11-07,Municipal,mpls_2017_council_ward_13.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2017_G_Minneapolis_At_Large_Mayor,2017,MN,Mayor,At_Large,Minneapolis,general,NA,18,6,2017-11-07,Municipal,2017-Mayor-Results-Summary.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+MN_2017_G_Minneapolis_At_Large_ParkBoard,2017,MN,Park Board,At_Large,Minneapolis,general,NA,11,5,2017-11-07,Municipal,2017-Park-Board-At-Large-Race-Results-Summary.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2017_G_Minneapolis_At_Large_Tax_Board,2017,MN,Tax Board,At_Large,Minneapolis,general,NA,4,2,2017-11-07,Municipal,2017-Board-of-Estimate-and-Taxation-Results-Summary.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2017_G_Minneapolis_04_ParkBoard,2017,MN,Park Board,4,Minneapolis,general,NA,3,1,2017-11-07,Municipal,mpls_2017_park_board_4.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2017_G_Minneapolis_05_ParkBoard,2017,MN,Park Board,5,Minneapolis,general,NA,4,1,2017-11-07,Municipal,mpls_2017_park_board_5.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2021_G_Minneapolis_01_Council,2021,MN,City Council,1,Minneapolis,general,NA,4,2,2021-11-02,Municipal,2021-Council-Ward-1-Round-Results-Summary.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2021_G_Minneapolis_02_ParkBoard,2021,MN,Park Board,2,Minneapolis,general,NA,4,2,2021-11-02,Municipal,2021-Park-Board-District-2-Round-Results-Summary.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+MN_2021_G_Minneapolis_03_Council,2021,MN,City Council,3,Minneapolis,general,NA,4,2,2021-11-02,Municipal,2021-Council-Ward-3-Round-Results-Summary.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2021_G_Minneapolis_03_ParkBoard,2021,MN,Park Board,3,Minneapolis,general,NA,3,1,2021-11-02,Municipal,2021-Park-Board-District-3-Round-Results-Summary.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2021_G_Minneapolis_04_Council,2021,MN,City Council,4,Minneapolis,general,NA,4,1,2021-11-02,Municipal,mpls_2021_council_ward_04.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2021_G_Minneapolis_04_ParkBoard,2021,MN,Park Board,4,Minneapolis,general,NA,3,1,2021-11-02,Municipal,2021-Park-Board-District-4-Round-Results-Summary.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2021_G_Minneapolis_05_Council,2021,MN,City Council,5,Minneapolis,general,NA,8,3,2021-11-02,Municipal,2021-Council-Ward-5-Round-Results-Summary.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+MN_2021_G_Minneapolis_05_ParkBoard,2021,MN,Park Board,5,Minneapolis,general,NA,4,1,2021-11-02,Municipal,2021-Park-Board-District-5-Round-Results-Summary.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2021_G_Minneapolis_06_Council,2021,MN,City Council,6,Minneapolis,general,NA,3,1,2021-11-02,Municipal,mpls_2021_council_ward_06.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2021_G_Minneapolis_06_ParkBoard,2021,MN,Park Board,6,Minneapolis,general,NA,5,3,2021-11-02,Municipal,2021-Park-Board-District-6-Round-Results-Summary.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+MN_2021_G_Minneapolis_07_Council,2021,MN,City Council,7,Minneapolis,general,NA,5,1,2021-11-02,Municipal,mpls_2021_council_ward_07.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2021_G_Minneapolis_08_Council,2021,MN,City Council,8,Minneapolis,general,NA,3,1,2021-11-02,Municipal,mpls_2021_council_ward_08.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2021_G_Minneapolis_09_Council,2021,MN,City Council,9,Minneapolis,general,NA,8,1,2021-11-02,Municipal,mpls_2021_council_ward_09.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2021_G_Minneapolis_10_Council,2021,MN,City Council,10,Minneapolis,general,NA,6,3,2021-11-02,Municipal,2021-Council-Ward-10-Round-Results-Summary.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+MN_2021_G_Minneapolis_11_Council,2021,MN,City Council,11,Minneapolis,general,NA,5,1,2021-11-02,Municipal,mpls_2021_council_ward_11.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2021_G_Minneapolis_12_Council,2021,MN,City Council,12,Minneapolis,general,NA,3,1,2021-11-02,Municipal,mpls_2021_council_ward_12.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2021_G_Minneapolis_13_Council,2021,MN,City Council,13,Minneapolis,general,NA,5,1,2021-11-02,Municipal,mpls_2021_council_ward_13.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2021_G_Minneapolis_At_Large_Mayor,2021,MN,Mayor,At_Large,Minneapolis,general,NA,19,2,2021-11-02,Municipal,2021-Mayor-Round-Results-Summary.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+MN_2021_G_Minnetonka_At_Large_Council,2021,MN,City Council,At_Large,Minnetonka,general,NA,5,4,2021-11-02,Municipal,Summary Statement-2.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+MN_2021_G_Minnetonka_At_Large_Mayor,2021,MN,Mayor,At_Large,Minnetonka,general,NA,3,1,2021-11-02,Municipal,Summary Statement.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2021_G_Stlouispark_01_Council,2021,MN,City Council,1,St. Louis Park,general,NA,2,1,2021-11-02,Municipal,stlouispark_citycouncilward1_2021.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2021_G_Stlouispark_02_Council,2021,MN,City Council,2,St. Louis Park,general,NA,3,1,2021-11-02,Municipal,stlouispark_citycouncilward2_2021.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2021_G_Stlouispark_03_Council,2021,MN,City Council,3,St. Louis Park,general,NA,3,3,2021-11-02,Municipal,stlouispark_citycouncilward3_2021.txt,Pass,Pass,Pass,Pass,Pass,Not Pass
+MN_2021_G_Stlouispark_04_Council,2021,MN,City Council,4,St. Louis Park,general,NA,2,1,2021-11-02,Municipal,stlouispark_citycouncilward4_2021.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2021_G_Minneapolis_01_ParkBoard,2021,MN,Park Board,1,Minneapolis,general,NA,2,1,2021-11-02,Municipal,mpls_2021_park_board_1.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+MN_2021_G_Minnetonka_At_Large_Council_Seat_A,2021,MN,City Council,At_Large,Minnetonka,general,NA,5,1,2021-11-02,Municipal,Summary Statement-4.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2023_G_Bloomington_04_Council,2023,MN,City Council,4,Bloomington,general,NA,4,1,2023-11-07,Municipal,Bloomington_City_Council_Dist_4_2023.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2023_G_Bloomington_At_Large_Council,2023,MN,City Council,At_Large,Bloomington,general,NA,3,2,2023-11-07,Municipal,Bloomington_City_Council_AtLarge_Special_2023.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+MN_2023_G_Minneapolis_01_Council,2023,MN,City Council,1,Minneapolis,general,NA,3,1,2023-11-07,Municipal,Minneapolis_2023_city_d1.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2023_G_Minneapolis_02_Council,2023,MN,City Council,2,Minneapolis,general,NA,3,1,2023-11-07,Municipal,Minneapolis_2023_city_d2.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2023_G_Minneapolis_03_Council,2023,MN,City Council,3,Minneapolis,general,NA,3,1,2023-11-07,Municipal,Minneapolis_2023_city_d3.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2023_G_Minneapolis_04_Council,2023,MN,City Council,4,Minneapolis,general,NA,4,1,2023-11-07,Municipal,Minneapolis_2023_city_d4.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2023_G_Minneapolis_05_Council,2023,MN,City Council,5,Minneapolis,general,NA,4,1,2023-11-07,Municipal,Minneapolis_2023_city_d5.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2023_G_Minneapolis_06_Council,2023,MN,City Council,6,Minneapolis,general,NA,5,2,2023-11-07,Municipal,Minneapolis_2023_city_d6.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+MN_2023_G_Minneapolis_07_Council,2023,MN,City Council,7,Minneapolis,general,NA,4,2,2023-11-07,Municipal,Minneapolis_2023_city_d7.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2023_G_Minneapolis_08_Council,2023,MN,City Council,8,Minneapolis,general,NA,5,2,2023-11-07,Municipal,Minneapolis_2023_city_d8.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2023_G_Minneapolis_10_Council,2023,MN,City Council,10,Minneapolis,general,NA,4,1,2023-11-07,Municipal,Minneapolis_2023_city_d10.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2023_G_Minneapolis_11_Council,2023,MN,City Council,11,Minneapolis,general,NA,3,1,2023-11-07,Municipal,Minneapolis_2023_city_d11.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2023_G_Minneapolis_12_Council,2023,MN,City Council,12,Minneapolis,general,NA,3,1,2023-11-07,Municipal,Minneapolis_2023_city_d12.txt,Pass,Pass,Pass,Pass,Pass,Pass
+MN_2023_G_Minneapolis_13_Council,2023,MN,City Council,13,Minneapolis,general,NA,4,1,2023-11-07,Municipal,Minneapolis_2023_city_d13.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NM_2018_G_Santafe_02_Council,2018,NM,City Council,2,Santa Fe,general,NA,3,1,2018-03-06,Municipal,santafe_citycouncildistrict2_2018.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NM_2018_G_Santafe_04_Council,2018,NM,City Council,4,Santa Fe,general,NA,3,2,2018-03-06,Municipal,santafe_citycouncildistrict4_2018.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NM_2018_G_Santafe_At_Large_Mayor,2018,NM,Mayor,At_Large,Santa Fe,general,NA,5,4,2018-03-06,Municipal,santafe_mayor_2018.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NM_2019_G_Donaana_02_Council,2019,NM,City Council,2,Donaana,general,NA,4,3,2019-11-05,Municipal,lascruces_councilorposition2cityoflascrucesdistrict2councilor_2019.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NM_2019_G_Donaana_04_Council,2019,NM,City Council,4,Donaana,general,NA,3,2,2019-11-05,Municipal,lascruces_councilorposition4cityoflascrucesdistrict4councilor _2019.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NM_2019_G_Donaana_At_Large_Mayor,2019,NM,Mayor,At_Large,Donaana,general,NA,10,9,2019-11-05,Municipal,lascruces_mayorcityoflascruces _2019.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_Bronx_At_Large_BoroughPresident_DEM,2021,NY,Borough President,At_Large,Bronx,primary,DEM,5,3,2021-06-22,Municipal,nyc2021_dem_boroughpresident_bronx.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_Kings_At_Large_BoroughPresident_DEM,2021,NY,Borough President,At_Large,Kings,primary,DEM,12,11,2021-06-22,Municipal,nyc2021_dem_boroughpresident_kings.txt,Pass,Pass,Not Pass,Pass,Pass,Not Pass
+NY_2021_P_New_York_City_02_Council_DEM,2021,NY,City Council,2,New York City,primary,DEM,3,1,2021-06-22,Municipal,nyc2021_dem_council_newyork_district2.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_03_Council_DEM,2021,NY,City Council,3,New York City,primary,DEM,6,7,2021-06-22,Municipal,nyc2021_dem_council_newyork_district3.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_05_Council_DEM,2021,NY,City Council,5,New York City,primary,DEM,7,6,2021-06-22,Municipal,nyc2021_dem_council_newyork_district5.txt,Pass,Pass,Not Pass,Pass,Pass,Not Pass
+NY_2021_P_New_York_City_06_Council_DEM,2021,NY,City Council,6,New York City,primary,DEM,6,1,2021-06-22,Municipal,nyc2021_dem_council_newyork_district6.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_07_Council_DEM,2021,NY,City Council,7,New York City,primary,DEM,13,13,2021-06-22,Municipal,nyc2021_dem_council_newyork_district7.txt,Pass,Pass,Not Pass,Pass,Pass,Not Pass
+NY_2021_P_New_York_City_08_Council_DEM,2021,NY,City Council,8,New York City,primary,DEM,5,1,2021-06-22,Municipal,nyc2021_dem_council_bronx_district8.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_09_Council_DEM,2021,NY,City Council,9,New York City,primary,DEM,13,13,2021-06-22,Municipal,nyc2021_dem_council_newyork_district9.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_10_Council_DEM,2021,NY,City Council,10,New York City,primary,DEM,8,4,2021-06-22,Municipal,nyc2021_dem_council_newyork_district10.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_11_Council_DEM,2021,NY,City Council,11,New York City,primary,DEM,7,6,2021-06-22,Municipal,nyc2021_dem_council_bronx_district11.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_12_Council_DEM,2021,NY,City Council,12,New York City,primary,DEM,4,3,2021-06-22,Municipal,nyc2021_dem_council_bronx_district12.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_13_Council_DEM,2021,NY,City Council,13,New York City,primary,DEM,5,1,2021-06-22,Municipal,nyc2021_dem_council_bronx_district13.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_14_Council_DEM,2021,NY,City Council,14,New York City,primary,DEM,6,6,2021-06-22,Municipal,nyc2021_dem_council_bronx_district14.txt,Pass,Pass,Not Pass,Pass,Pass,Not Pass
+NY_2021_P_New_York_City_15_Council_DEM,2021,NY,City Council,15,New York City,primary,DEM,8,7,2021-06-22,Municipal,nyc2021_dem_council_bronx_district15.txt,Pass,Pass,Not Pass,Pass,Pass,Not Pass
+NY_2021_P_New_York_City_15_Council_REP,2021,NY,City Council,15,New York City,primary,REP,3,2,2021-06-22,Municipal,nyc2021_rep_council_bronx_district15.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_16_Council_DEM,2021,NY,City Council,16,New York City,primary,DEM,5,1,2021-06-22,Municipal,nyc2021_dem_council_bronx_district16.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_17_Council_DEM,2021,NY,City Council,17,New York City,primary,DEM,3,1,2021-06-22,Municipal,nyc2021_dem_council_bronx_district17.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_18_Council_DEM,2021,NY,City Council,18,New York City,primary,DEM,8,6,2021-06-22,Municipal,nyc2021_dem_council_bronx_district18.txt,Pass,Pass,Not Pass,Pass,Pass,Not Pass
+NY_2021_P_New_York_City_19_Council,2021,NY,City Council,19,New York City,primary,NA,3,1,2021-06-22,Municipal,nyc2021_con_council_queens_district19.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_19_Council_DEM,2021,NY,City Council,19,New York City,primary,DEM,6,4,2021-06-22,Municipal,nyc2021_dem_council_queens_district19.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_19_Council_REP,2021,NY,City Council,19,New York City,primary,REP,3,1,2021-06-22,Municipal,nyc2021_rep_council_queens_district19.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_1st_Council_DEM,2021,NY,City Council,1st,New York City,primary,DEM,10,8,2021-06-22,Municipal,nyc2021_dem_council_newyork_district1.txt,Pass,Pass,Not Pass,Pass,Pass,Not Pass
+NY_2021_P_New_York_City_20_Council_DEM,2021,NY,City Council,20,New York City,primary,DEM,8,8,2021-06-22,Municipal,nyc2021_dem_council_queens_district20.txt,Pass,Pass,Not Pass,Pass,Pass,Not Pass
+NY_2021_P_New_York_City_21_Council_DEM,2021,NY,City Council,21,New York City,primary,DEM,6,1,2021-06-22,Municipal,nyc2021_dem_council_queens_district21.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_22_Council_DEM,2021,NY,City Council,22,New York City,primary,DEM,6,3,2021-06-22,Municipal,nyc2021_dem_council_queens_district22.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_23_Council_DEM,2021,NY,City Council,23,New York City,primary,DEM,7,5,2021-06-22,Municipal,nyc2021_dem_council_queens_district23.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_23_Council_REP,2021,NY,City Council,23,New York City,primary,REP,3,1,2021-06-22,Municipal,nyc2021_rep_council_queens_district23.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_24_Council_DEM,2021,NY,City Council,24,New York City,primary,DEM,5,1,2021-06-22,Municipal,nyc2021_dem_council_queens_district24.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_24_Council_REP,2021,NY,City Council,24,New York City,primary,REP,3,1,2021-06-22,Municipal,nyc2021_rep_council_queens_district24.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_25_Council_DEM,2021,NY,City Council,25,New York City,primary,DEM,8,7,2021-06-22,Municipal,nyc2021_dem_council_queens_district25.txt,Pass,Pass,Not Pass,Pass,Pass,Not Pass
+NY_2021_P_New_York_City_26_Council_DEM,2021,NY,City Council,26,New York City,primary,DEM,15,15,2021-06-22,Municipal,nyc2021_dem_council_queens_district26.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_27_Council_DEM,2021,NY,City Council,27,New York City,primary,DEM,12,13,2021-06-22,Municipal,nyc2021_dem_council_queens_district27.txt,Pass,Pass,Not Pass,Pass,Pass,Not Pass
+NY_2021_P_New_York_City_28_Council_DEM,2021,NY,City Council,28,New York City,primary,DEM,4,1,2021-06-22,Municipal,nyc2021_dem_council_queens_district28.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_29_Council_DEM,2021,NY,City Council,29,New York City,primary,DEM,10,8,2021-06-22,Municipal,nyc2021_dem_council_queens_district29.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_30_Council_DEM,2021,NY,City Council,30,New York City,primary,DEM,3,1,2021-06-22,Municipal,nyc2021_dem_council_queens_district30.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_31_Council_DEM,2021,NY,City Council,31,New York City,primary,DEM,4,1,2021-06-22,Municipal,nyc2021_dem_council_queens_district31.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_32_Council_DEM,2021,NY,City Council,32,New York City,primary,DEM,6,3,2021-06-22,Municipal,nyc2021_dem_council_queens_district32.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_32_Council_REP,2021,NY,City Council,32,New York City,primary,REP,3,1,2021-06-22,Municipal,nyc2021_rep_council_queens_district32.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_33_Council_DEM,2021,NY,City Council,33,New York City,primary,DEM,8,7,2021-06-22,Municipal,nyc2021_dem_council_kings_district33.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_34_Council_DEM,2021,NY,City Council,34,New York City,primary,DEM,5,1,2021-06-22,Municipal,nyc2021_dem_council_kings_district34.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_35_Council_DEM,2021,NY,City Council,35,New York City,primary,DEM,7,3,2021-06-22,Municipal,nyc2021_dem_council_kings_district35.txt,Pass,Pass,Pass,Pass,Pass,Not Pass
+NY_2021_P_New_York_City_36_Council_DEM,2021,NY,City Council,36,New York City,primary,DEM,5,4,2021-06-22,Municipal,nyc2021_dem_council_kings_district36.txt,Pass,Pass,Not Pass,Pass,Pass,Not Pass
+NY_2021_P_New_York_City_37_Council_DEM,2021,NY,City Council,37,New York City,primary,DEM,6,5,2021-06-22,Municipal,nyc2021_dem_council_kings_district37.txt,Pass,Pass,Pass,Pass,Pass,Not Pass
+NY_2021_P_New_York_City_38_Council_DEM,2021,NY,City Council,38,New York City,primary,DEM,6,5,2021-06-22,Municipal,nyc2021_dem_council_kings_district38.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_39_Council_DEM,2021,NY,City Council,39,New York City,primary,DEM,7,6,2021-06-22,Municipal,nyc2021_dem_council_kings_district39.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_40_Council_DEM,2021,NY,City Council,40,New York City,primary,DEM,11,10,2021-06-22,Municipal,nyc2021_dem_council_kings_district40.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_41_Council_DEM,2021,NY,City Council,41,New York City,primary,DEM,3,1,2021-06-22,Municipal,nyc2021_dem_council_kings_district41.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_42_Council_DEM,2021,NY,City Council,42,New York City,primary,DEM,5,3,2021-06-22,Municipal,nyc2021_dem_council_kings_district42.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_45_Council_DEM,2021,NY,City Council,45,New York City,primary,DEM,3,1,2021-06-22,Municipal,nyc2021_dem_council_kings_district45.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_46_Council_DEM,2021,NY,City Council,46,New York City,primary,DEM,8,7,2021-06-22,Municipal,nyc2021_dem_council_kings_district46.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_47_Council_DEM,2021,NY,City Council,47,New York City,primary,DEM,5,3,2021-06-22,Municipal,nyc2021_dem_council_kings_district47.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_48_Council_DEM,2021,NY,City Council,48,New York City,primary,DEM,5,5,2021-06-22,Municipal,nyc2021_dem_council_kings_district48.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_49_Council_DEM,2021,NY,City Council,49,New York City,primary,DEM,9,9,2021-06-22,Municipal,nyc2021_dem_council_richmond_district49.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_50_Council_REP,2021,NY,City Council,50,New York City,primary,REP,5,5,2021-06-22,Municipal,nyc2021_rep_council_richmond_district50.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_At_Large_BoroughPresident_DEM,2021,NY,Borough President,At_Large,New York City,primary,DEM,7,7,2021-06-22,Municipal,nyc2021_dem_boroughpresident_newyork.txt,Pass,Pass,Not Pass,Pass,Pass,Not Pass
+NY_2021_P_New_York_City_At_Large_Comptroller_DEM,2021,NY,Comptroller,At_Large,New York City,primary,DEM,11,10,2021-06-22,Municipal,nyc2021_dem_comptroller_citywide.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_At_Large_Mayor_REP,2021,NY,Mayor,At_Large,New York City,primary,REP,3,1,2021-06-22,Municipal,nyc2021_rep_mayor_citywide.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_New_York_City_At_Large_PublicAdvocate_DEM,2021,NY,Public Advocate,At_Large,New York City,primary,DEM,4,1,2021-06-22,Municipal,nyc2021_dem_public_advocate_citywide.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2021_P_Queens_At_Large_BoroughPresident_DEM,2021,NY,Borough President,At_Large,Queens,primary,DEM,4,3,2021-06-22,Municipal,nyc2021_dem_boroughpresident_queens.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+NY_2021_P_Richmond_At_Large_BoroughPresident_DEM,2021,NY,Borough President,At_Large,Richmond,primary,DEM,5,6,2021-06-22,Municipal,nyc2021_dem_boroughpresident_richmond.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+NY_2021_P_Richmond_At_Large_BoroughPresident_REP,2021,NY,Borough President,At_Large,Richmond,primary,REP,5,3,2021-06-22,Municipal,nyc2021_rep_boroughpresident_richmond.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2023_P_New_York_City_01_Council_DEM,2023,NY,City Council,1,New York City,primary,DEM,5,1,2023-06-27,Municipal,NYC_2023_DEM_Council_Member_1st_Council_District.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2023_P_New_York_City_02_Council_DEM,2023,NY,City Council,2,New York City,primary,DEM,3,1,2023-06-27,Municipal,NYC_2023_DEM_Council_Member_2nd_Council_District.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2023_P_New_York_City_09_Council_DEM,2023,NY,City Council,9,New York City,primary,DEM,5,4,2023-06-27,Municipal,NYC_2023_DEM_Council_Member_9th_Council_District.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2023_P_New_York_City_10_Council_DEM,2023,NY,City Council,10,New York City,primary,DEM,3,1,2023-06-27,Municipal,NYC_2023_DEM_Council_Member_10th_Council_District.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2023_P_New_York_City_12_Council_DEM,2023,NY,City Council,12,New York City,primary,DEM,3,1,2023-06-27,Municipal,NYC_2023_DEM_Council_Member_12th_Council_District.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2023_P_New_York_City_13_Council_CON,2023,NY,City Council,13,New York City,primary,CON,3,1,2023-06-27,Municipal,NYC_2023_CON_Council_Member_13th_Council_District.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2023_P_New_York_City_13_Council_DEM,2023,NY,City Council,13,New York City,primary,DEM,5,1,2023-06-27,Municipal,NYC_2023_DEM_Council_Member_13th_Council_District.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2023_P_New_York_City_13_Council_REP,2023,NY,City Council,13,New York City,primary,REP,4,3,2023-06-27,Municipal,NYC_2023_REP_Council_Member_13th_Council_District.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2023_P_New_York_City_14_Council_DEM,2023,NY,City Council,14,New York City,primary,DEM,3,1,2023-06-27,Municipal,NYC_2023_DEM_Council_Member_14th_Council_District.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2023_P_New_York_City_19_Council_DEM,2023,NY,City Council,19,New York City,primary,DEM,3,3,2023-06-27,Municipal,NYC_2023_DEM_Council_Member_19th_Council_District.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2023_P_New_York_City_20_Council_REP,2023,NY,City Council,20,New York City,primary,REP,3,1,2023-06-27,Municipal,NYC_2023_REP_Council_Member_20th_Council_District.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2023_P_New_York_City_22_Council_DEM,2023,NY,City Council,22,New York City,primary,DEM,3,1,2023-06-27,Municipal,NYC_2023_DEM_Council_Member_22nd_Council_District.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2023_P_New_York_City_23_Council_DEM,2023,NY,City Council,23,New York City,primary,DEM,3,1,2023-06-27,Municipal,NYC_2023_DEM_Council_Member_23rd_Council_District.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2023_P_New_York_City_25_Council_DEM,2023,NY,City Council,25,New York City,primary,DEM,3,1,2023-06-27,Municipal,NYC_2023_DEM_Council_Member_25th_Council_District.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2023_P_New_York_City_26_Council_DEM,2023,NY,City Council,26,New York City,primary,DEM,3,1,2023-06-27,Municipal,NYC_2023_DEM_Council_Member_26th_Council_District.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2023_P_New_York_City_29_Council_DEM,2023,NY,City Council,29,New York City,primary,DEM,3,1,2023-06-27,Municipal,NYC_2023_DEM_Council_Member_29th_Council_District.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2023_P_New_York_City_34_Council_DEM,2023,NY,City Council,34,New York City,primary,DEM,3,1,2023-06-27,Municipal,NYC_2023_DEM_Council_Member_34th_Council_District.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2023_P_New_York_City_41_Council_DEM,2023,NY,City Council,41,New York City,primary,DEM,5,1,2023-06-27,Municipal,NYC_2023_DEM_Council_Member_41st_Council_District.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2023_P_New_York_City_42_Council_DEM,2023,NY,City Council,42,New York City,primary,DEM,3,1,2023-06-27,Municipal,NYC_2023_DEM_Council_Member_42nd_Council_District.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2023_P_New_York_City_43_Council_DEM,2023,NY,City Council,43,New York City,primary,DEM,3,1,2023-06-27,Municipal,NYC_2023_DEM_Council_Member_43rd_Council_District.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2023_P_New_York_City_43_Council_REP,2023,NY,City Council,43,New York City,primary,REP,3,1,2023-06-27,Municipal,NYC_2023_REP_Council_Member_43rd_Council_District.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2023_P_New_York_City_44_Council_REP,2023,NY,City Council,44,New York City,primary,REP,3,1,2023-06-27,Municipal,NYC_2023_REP_Council_Member_44th_Council_District.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2023_P_New_York_City_47_Council_REP,2023,NY,City Council,47,New York City,primary,REP,3,1,2023-06-27,Municipal,NYC_2023_REP_Council_Member_47th_Council_District.txt,Pass,Pass,Pass,Pass,Pass,Pass
+NY_2023_P_New_York_City_48_Council_REP,2023,NY,City Council,48,New York City,primary,REP,3,1,2023-06-27,Municipal,NYC_2023_REP_Council_Member_48th_Council_District.txt,Pass,Pass,Pass,Pass,Pass,Pass
+OR_2022_G_Corvallis_09_Council,2022,OR,City Council,9,Corvallis,general,NA,4,2,2022-11-08,Municipal,Covallis_OR_City_Con_RCV.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+OR_2022_G_Corvallis_At_Large_Mayor,2022,OR,Mayor,At_Large,Corvallis,general,NA,4,2,2022-11-08,Municipal,Covallis_OR_Mayor_2022_RCV.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+UT_2019_G_Payson_At_Large_Council,2019,UT,City Council,At_Large,Payson,general,NA,5,4,2019-11-05,Municipal,payson_citycouncilseat1_2019.txt,Pass,Pass,Pass,Pass,Pass,Pass
+UT_2021_G_Elkridge_At_Large_Mayor,2021,UT,Mayor,At_Large,Elk Ridge,general,NA,3,2,2021-11-02,Municipal,elkridge_mayor_2021.txt,Pass,Pass,Pass,Pass,Pass,Pass
+UT_2021_G_Vineyard_At_Large_Mayor,2021,UT,Mayor,At_Large,Vineyard,general,NA,3,1,2021-11-02,Municipal,vineyard_mayor_2021.txt,Pass,Pass,Pass,Pass,Pass,Pass
+UT_2021_G_Woodlandhills_At_Large_Mayor,2021,UT,Mayor,At_Large,Woodland Hills,general,NA,3,2,2021-11-02,Municipal,woodlandhills_mayor_2021.txt,Pass,Pass,Pass,Pass,Pass,Pass
+UT_2021_S_Springville_At_Large_Mayor,2021,UT,Mayor,At_Large,Springville,special,NA,3,1,2021-11-02,Municipal,springville_mayor_2021.txt,Pass,Pass,Pass,Pass,Pass,Pass
+WA_2008_G_Pierce_02_CountyCouncil,2008,WA,County Council,2,Pierce,general,NA,4,2,2008-11-04,County,Pierce_County_RCV_County_Council_D2.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+WA_2008_G_Pierce_03_CountyCouncil,2008,WA,County Council,3,Pierce,general,NA,3,1,2008-11-04,County,2008_Pierce_County_RCV_County_Council_D3.txt,Pass,Pass,Pass,Pass,Pass,Pass
+WA_2008_G_Pierce_04_CountyCouncil,2008,WA,County Council,4,Pierce,general,NA,3,1,2008-11-04,County,2008_Pierce_County_RCV_County_Council_D4.txt,Pass,Pass,Pass,Pass,Pass,Pass
+WA_2008_G_Pierce_06_CountyCouncil,2008,WA,County Council,6,Pierce,general,NA,3,1,2008-11-04,County,2008_Pierce_County_RCV_County_Council_D6.txt,Pass,Pass,Pass,Pass,Pass,Pass
+WA_2008_G_Pierce_At_Large_Auditor,2008,WA,Auditor,At_Large,Pierce,general,NA,3,2,2008-11-04,Municipal,2009_Pierce_County_RCV_Auditor.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+WA_2008_G_Pierce_At_Large_CountyExecutive,2008,WA,County Executive,At_Large,Pierce,general,NA,5,3,2008-11-04,County,Pierce_County_Washing_County_Exec_RCV.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+WA_2008_G_Pierce_At_Large_CountySheriff,2008,WA,County Sheriff,At_Large,Pierce,general,NA,4,1,2008-11-04,County,2008_Pierce_County_RCV_Sheriff.txt,Pass,Pass,Pass,Pass,Pass,Pass
+WA_2008_G_Pierce_At_Large_County_Assessor_Treasurer,2008,WA,County Assessor - Treasurer,At_Large,Pierce,general,NA,6,4,2008-11-04,County,Pierce_county_rcv_treasurer_2008.txt,Pass,Pass,Not Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_0F_State_Senate,2024,AK,State Senate,F,Alaska,general,NA,3,2,2024-11-05,State,RCV-SenF.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_0L_State_Senate,2024,AK,State Senate,L,Alaska,general,NA,3,2,2024-11-05,State,RCV-SenL.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_40_State_House,2024,AK,State House,40,Alaska,general,NA,3,2,2024-11-05,State,RCV-HD40.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_36_State_House,2024,AK,State House,36,Alaska,general,NA,4,3,2024-11-05,State,RCV-HD36.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_06_State_House,2024,AK,State House,6,Alaska,general,NA,3,2,2024-11-05,State,RCV-HD6.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_At_Large_US_Representative,2024,AK,U.S. House,At_Large,Alaska,general,NA,4,3,2024-11-05,Federal,RCV-USRep.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_28_State_House,2024,AK,State House,28,Alaska,general,NA,3,2,2024-11-05,State,RCV-HD28.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_0D_State_Senate,2024,AK,State Senate,D,Alaska,general,NA,3,2,2024-11-05,State,RCV-SenD.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_19_State_House,2024,AK,State House,19,Alaska,general,NA,4,1,2024-11-05,State,alaska_2024_house_district_19.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_25_State_House,2024,AK,State House,25,Alaska,general,NA,2,1,2024-11-05,State,alaska_2024_house_district_25.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_31_State_House,2024,AK,State House,31,Alaska,general,NA,3,1,2024-11-05,State,alaska_2024_house_district_31.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_30_State_House,2024,AK,State House,30,Alaska,general,NA,3,1,2024-11-05,State,alaska_2024_house_district_30.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_24_State_House,2024,AK,State House,24,Alaska,general,NA,2,1,2024-11-05,State,alaska_2024_house_district_24.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_17_State_House,2024,AK,State House,17,Alaska,general,NA,2,1,2024-11-05,State,alaska_2024_house_district_17.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_04_State_House,2024,AK,State House,4,Alaska,general,NA,2,1,2024-11-05,State,alaska_2024_house_district_4.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_15_State_House,2024,AK,State House,15,Alaska,general,NA,4,1,2024-11-05,State,alaska_2024_house_district_15.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_29_State_House,2024,AK,State House,29,Alaska,general,NA,2,1,2024-11-05,State,alaska_2024_house_district_29.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_14_State_House,2024,AK,State House,14,Alaska,general,NA,3,1,2024-11-05,State,alaska_2024_house_district_14.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_33_State_House,2024,AK,State House,33,Alaska,general,NA,2,1,2024-11-05,State,alaska_2024_house_district_33.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_37_State_House,2024,AK,State House,37,Alaska,general,NA,3,1,2024-11-05,State,alaska_2024_house_district_37.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_23_State_House,2024,AK,State House,23,Alaska,general,NA,3,1,2024-11-05,State,alaska_2024_house_district_23.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_22_State_House,2024,AK,State House,22,Alaska,general,NA,3,1,2024-11-05,State,alaska_2024_house_district_22.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_20_State_House,2024,AK,State House,20,Alaska,general,NA,3,1,2024-11-05,State,alaska_2024_house_district_20.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_13_State_House,2024,AK,State House,13,Alaska,general,NA,3,1,2024-11-05,State,alaska_2024_house_district_13.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_12_State_House,2024,AK,State House,12,Alaska,general,NA,3,1,2024-11-05,State,alaska_2024_house_district_12.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_03_State_House,2024,AK,State House,3,Alaska,general,NA,2,1,2024-11-05,State,alaska_2024_house_district_3.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_07_State_House,2024,AK,State House,7,Alaska,general,NA,3,1,2024-11-05,State,alaska_2024_house_district_7.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_16_State_House,2024,AK,State House,16,Alaska,general,NA,3,1,2024-11-05,State,alaska_2024_house_district_16.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_34_State_House,2024,AK,State House,34,Alaska,general,NA,3,1,2024-11-05,State,alaska_2024_house_district_34.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_35_State_House,2024,AK,State House,35,Alaska,general,NA,3,1,2024-11-05,State,alaska_2024_house_district_35.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_21_State_House,2024,AK,State House,21,Alaska,general,NA,3,1,2024-11-05,State,alaska_2024_house_district_21.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_01_State_House,2024,AK,State House,1,Alaska,general,NA,4,1,2024-11-05,State,alaska_2024_house_district_1.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_10_State_House,2024,AK,State House,10,Alaska,general,NA,3,1,2024-11-05,State,alaska_2024_house_district_10.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_11_State_House,2024,AK,State House,11,Alaska,general,NA,3,1,2024-11-05,State,alaska_2024_house_district_11.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_39_State_House,2024,AK,State House,39,Alaska,general,NA,3,1,2024-11-05,State,alaska_2024_house_district_39.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_02_State_House,2024,AK,State House,2,Alaska,general,NA,2,1,2024-11-05,State,alaska_2024_house_district_2.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_18_State_House,2024,AK,State House,18,Alaska,general,NA,3,1,2024-11-05,State,alaska_2024_house_district_18.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_09_State_House,2024,AK,State House,9,Alaska,general,NA,3,1,2024-11-05,State,alaska_2024_house_district_9.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_32_State_House,2024,AK,State House,32,Alaska,general,NA,3,1,2024-11-05,State,alaska_2024_house_district_32.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_26_State_House,2024,AK,State House,26,Alaska,general,NA,2,1,2024-11-05,State,alaska_2024_house_district_26.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_27_State_House,2024,AK,State House,27,Alaska,general,NA,3,1,2024-11-05,State,alaska_2024_house_district_27.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_05_State_House,2024,AK,State House,5,Alaska,general,NA,3,1,2024-11-05,State,alaska_2024_house_district_5.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_0N_State_Senate,2024,AK,State Senate,N,Alaska,general,NA,4,1,2024-11-05,State,alaska_2024_senate_district_n.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_0H_State_Senate,2024,AK,State Senate,H,Alaska,general,NA,3,1,2024-11-05,State,alaska_2024_senate_district_h.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_0J_State_Senate,2024,AK,State Senate,J,Alaska,general,NA,3,1,2024-11-05,State,alaska_2024_senate_district_j.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_0P_State_Senate,2024,AK,State Senate,P,Alaska,general,NA,3,1,2024-11-05,State,alaska_2024_senate_district_p.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_0R_State_Senate,2024,AK,State Senate,R,Alaska,general,NA,4,1,2024-11-05,State,alaska_2024_senate_district_r.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_0B_State_Senate,2024,AK,State Senate,B,Alaska,general,NA,2,1,2024-11-05,State,alaska_2024_senate_district_b.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_At_Large_US_President,2024,AK,U.S. President,At_Large,Alaska,general,NA,8,1,2024-11-05,Federal,alaska_2024_us_president_vice_president.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_0T_State_Senate,2024,AK,State Senate,T,Alaska,general,NA,2,1,2024-11-05,State,alaska_2024_senate_district_t.txt,Pass,Pass,Pass,Pass,Pass,Pass
+AK_2024_G_Alaska_08_State_House,2024,AK,State House,8,Alaska,general,NA,3,1,2024-11-05,State,alaska_2024_house_district_8.txt,Pass,Pass,Pass,Pass,Pass,Pass
