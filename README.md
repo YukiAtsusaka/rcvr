@@ -1,4 +1,4 @@
-# cvrlink
+# rcvr
 
 ### Summary: 
 This package helps researchers of ranked-choice voting (RCV) by automating the coding of election identifying variables based on the file name of a cast vote record downloaded from Otis (2025).
@@ -10,7 +10,7 @@ We wish to augment the cast vote records data with additional variables. However
 This package preprocess file names and extract multiple identifying variables. Users can then merge the information.
 
 ### Additional benefits
-cvrlink also constructs a series of election_id, which is directly linked to the archive data (www.archive-rcv.com): a dataset of standardized tabulated results from American ranked-choice voting elections. The package also merges election-level attributes, when users chosoe to do so.
+rcvr also constructs a series of election_id, which is directly linked to the archive data (www.archive-rcv.com): a dataset of standardized tabulated results from American ranked-choice voting elections. The package also merges election-level attributes, when users chosoe to do so.
 
 
 

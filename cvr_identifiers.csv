@@ -1,0 +1,608 @@
+source_file,year,election_type,prm_party,juris,state,office,dist,election_id
+Alaska_20220816_USHouse_Special.tab,2022,special,NA,Alaska,AK,U.S. House,At_Large,AK_2022_S_Alaska_At_Large_US_Representative
+Alaska_20221108_GovernorLieutenantGovernor.tab,2022,general,NA,Alaska,AK,Governor,At_Large,AK_2022_G_Alaska_At_Large_Governor
+Alaska_20221108_HouseDistrict10.tab,2022,general,NA,Alaska,AK,State House,10,AK_2022_G_Alaska_10_State_House
+Alaska_20221108_HouseDistrict11.tab,2022,general,NA,Alaska,AK,State House,11,AK_2022_G_Alaska_11_State_House
+Alaska_20221108_HouseDistrict12.tab,2022,general,NA,Alaska,AK,State House,12,AK_2022_G_Alaska_12_State_House
+Alaska_20221108_HouseDistrict13.tab,2022,general,NA,Alaska,AK,State House,13,AK_2022_G_Alaska_13_State_House
+Alaska_20221108_HouseDistrict14.tab,2022,general,NA,Alaska,AK,State House,14,AK_2022_G_Alaska_14_State_House
+Alaska_20221108_HouseDistrict15.tab,2022,general,NA,Alaska,AK,State House,15,AK_2022_G_Alaska_15_State_House
+Alaska_20221108_HouseDistrict16.tab,2022,general,NA,Alaska,AK,State House,16,AK_2022_G_Alaska_16_State_House
+Alaska_20221108_HouseDistrict17.tab,2022,general,NA,Alaska,AK,State House,17,AK_2022_G_Alaska_17_State_House
+Alaska_20221108_HouseDistrict18.tab,2022,general,NA,Alaska,AK,State House,18,AK_2022_G_Alaska_18_State_House
+Alaska_20221108_HouseDistrict19.tab,2022,general,NA,Alaska,AK,State House,19,AK_2022_G_Alaska_19_State_House
+Alaska_20221108_HouseDistrict1.tab,2022,general,NA,Alaska,AK,State House,1,AK_2022_G_Alaska_01_State_House
+Alaska_20221108_HouseDistrict20.tab,2022,general,NA,Alaska,AK,State House,20,AK_2022_G_Alaska_20_State_House
+Alaska_20221108_HouseDistrict21.tab,2022,general,NA,Alaska,AK,State House,21,AK_2022_G_Alaska_21_State_House
+Alaska_20221108_HouseDistrict22.tab,2022,general,NA,Alaska,AK,State House,22,AK_2022_G_Alaska_22_State_House
+Alaska_20221108_HouseDistrict23.tab,2022,general,NA,Alaska,AK,State House,23,AK_2022_G_Alaska_23_State_House
+Alaska_20221108_HouseDistrict24.tab,2022,general,NA,Alaska,AK,State House,24,AK_2022_G_Alaska_24_State_House
+Alaska_20221108_HouseDistrict25.tab,2022,general,NA,Alaska,AK,State House,25,AK_2022_G_Alaska_25_State_House
+Alaska_20221108_HouseDistrict26.tab,2022,general,NA,Alaska,AK,State House,26,AK_2022_G_Alaska_26_State_House
+Alaska_20221108_HouseDistrict27.tab,2022,general,NA,Alaska,AK,State House,27,AK_2022_G_Alaska_27_State_House
+Alaska_20221108_HouseDistrict28.tab,2022,general,NA,Alaska,AK,State House,28,AK_2022_G_Alaska_28_State_House
+Alaska_20221108_HouseDistrict29.tab,2022,general,NA,Alaska,AK,State House,29,AK_2022_G_Alaska_29_State_House
+Alaska_20221108_HouseDistrict2.tab,2022,general,NA,Alaska,AK,State House,2,AK_2022_G_Alaska_02_State_House
+Alaska_20221108_HouseDistrict30.tab,2022,general,NA,Alaska,AK,State House,30,AK_2022_G_Alaska_30_State_House
+Alaska_20221108_HouseDistrict31.tab,2022,general,NA,Alaska,AK,State House,31,AK_2022_G_Alaska_31_State_House
+Alaska_20221108_HouseDistrict32.tab,2022,general,NA,Alaska,AK,State House,32,AK_2022_G_Alaska_32_State_House
+Alaska_20221108_HouseDistrict33.tab,2022,general,NA,Alaska,AK,State House,33,AK_2022_G_Alaska_33_State_House
+Alaska_20221108_HouseDistrict34.tab,2022,general,NA,Alaska,AK,State House,34,AK_2022_G_Alaska_34_State_House
+Alaska_20221108_HouseDistrict35.tab,2022,general,NA,Alaska,AK,State House,35,AK_2022_G_Alaska_35_State_House
+Alaska_20221108_HouseDistrict36.tab,2022,general,NA,Alaska,AK,State House,36,AK_2022_G_Alaska_36_State_House
+Alaska_20221108_HouseDistrict37.tab,2022,general,NA,Alaska,AK,State House,37,AK_2022_G_Alaska_37_State_House
+Alaska_20221108_HouseDistrict38.tab,2022,general,NA,Alaska,AK,State House,38,AK_2022_G_Alaska_38_State_House
+Alaska_20221108_HouseDistrict39.tab,2022,general,NA,Alaska,AK,State House,39,AK_2022_G_Alaska_39_State_House
+Alaska_20221108_HouseDistrict3.tab,2022,general,NA,Alaska,AK,State House,3,AK_2022_G_Alaska_03_State_House
+Alaska_20221108_HouseDistrict40.tab,2022,general,NA,Alaska,AK,State House,40,AK_2022_G_Alaska_40_State_House
+Alaska_20221108_HouseDistrict4.tab,2022,general,NA,Alaska,AK,State House,4,AK_2022_G_Alaska_04_State_House
+Alaska_20221108_HouseDistrict5.tab,2022,general,NA,Alaska,AK,State House,5,AK_2022_G_Alaska_05_State_House
+Alaska_20221108_HouseDistrict6.tab,2022,general,NA,Alaska,AK,State House,6,AK_2022_G_Alaska_06_State_House
+Alaska_20221108_HouseDistrict7.tab,2022,general,NA,Alaska,AK,State House,7,AK_2022_G_Alaska_07_State_House
+Alaska_20221108_HouseDistrict8.tab,2022,general,NA,Alaska,AK,State House,8,AK_2022_G_Alaska_08_State_House
+Alaska_20221108_HouseDistrict9.tab,2022,general,NA,Alaska,AK,State House,9,AK_2022_G_Alaska_09_State_House
+Alaska_20221108_SenateDistrictA.tab,2022,general,NA,Alaska,AK,State Senate,A,AK_2022_G_Alaska_0A_State_Senate
+Alaska_20221108_SenateDistrictB.tab,2022,general,NA,Alaska,AK,State Senate,B,AK_2022_G_Alaska_0B_State_Senate
+Alaska_20221108_SenateDistrictC.tab,2022,general,NA,Alaska,AK,State Senate,C,AK_2022_G_Alaska_0C_State_Senate
+Alaska_20221108_SenateDistrictD.tab,2022,general,NA,Alaska,AK,State Senate,D,AK_2022_G_Alaska_0D_State_Senate
+Alaska_20221108_SenateDistrictE.tab,2022,general,NA,Alaska,AK,State Senate,E,AK_2022_G_Alaska_0E_State_Senate
+Alaska_20221108_SenateDistrictF.tab,2022,general,NA,Alaska,AK,State Senate,F,AK_2022_G_Alaska_0F_State_Senate
+Alaska_20221108_SenateDistrictG.tab,2022,general,NA,Alaska,AK,State Senate,G,AK_2022_G_Alaska_0G_State_Senate
+Alaska_20221108_SenateDistrictH.tab,2022,general,NA,Alaska,AK,State Senate,H,AK_2022_G_Alaska_0H_State_Senate
+Alaska_20221108_SenateDistrictI.tab,2022,general,NA,Alaska,AK,State Senate,I,AK_2022_G_Alaska_0I_State_Senate
+Alaska_20221108_SenateDistrictJ.tab,2022,general,NA,Alaska,AK,State Senate,J,AK_2022_G_Alaska_0J_State_Senate
+Alaska_20221108_SenateDistrictK.tab,2022,general,NA,Alaska,AK,State Senate,K,AK_2022_G_Alaska_0K_State_Senate
+Alaska_20221108_SenateDistrictL.tab,2022,general,NA,Alaska,AK,State Senate,L,AK_2022_G_Alaska_0L_State_Senate
+Alaska_20221108_SenateDistrictM.tab,2022,general,NA,Alaska,AK,State Senate,M,AK_2022_G_Alaska_0M_State_Senate
+Alaska_20221108_SenateDistrictN.tab,2022,general,NA,Alaska,AK,State Senate,N,AK_2022_G_Alaska_0N_State_Senate
+Alaska_20221108_SenateDistrictO.tab,2022,general,NA,Alaska,AK,State Senate,O,AK_2022_G_Alaska_0O_State_Senate
+Alaska_20221108_SenateDistrictP.tab,2022,general,NA,Alaska,AK,State Senate,P,AK_2022_G_Alaska_0P_State_Senate
+Alaska_20221108_SenateDistrictQ.tab,2022,general,NA,Alaska,AK,State Senate,Q,AK_2022_G_Alaska_0Q_State_Senate
+Alaska_20221108_SenateDistrictR.tab,2022,general,NA,Alaska,AK,State Senate,R,AK_2022_G_Alaska_0R_State_Senate
+Alaska_20221108_SenateDistrictS.tab,2022,general,NA,Alaska,AK,State Senate,S,AK_2022_G_Alaska_0S_State_Senate
+Alaska_20221108_USRepresentative.tab,2022,general,NA,Alaska,AK,U.S. House,At_Large,AK_2022_G_Alaska_At_Large_US_Representative
+Alaska_20221108_USSenator.tab,2022,general,NA,Alaska,AK,U.S. Senate,At_Large,AK_2022_G_Alaska_At_Large_US_Senate
+Alaska_20241105_President.tab,2024,general,NA,Alaska,AK,U.S. President,At_Large,AK_2024_G_Alaska_At_Large_US_President
+Alaska_20241105_StateHouseD10.tab,2024,general,NA,Alaska,AK,State Representative,10,AK_2024_G_Alaska_10_State_Representative
+Alaska_20241105_StateHouseD11.tab,2024,general,NA,Alaska,AK,State Representative,11,AK_2024_G_Alaska_11_State_Representative
+Alaska_20241105_StateHouseD12.tab,2024,general,NA,Alaska,AK,State Representative,12,AK_2024_G_Alaska_12_State_Representative
+Alaska_20241105_StateHouseD13.tab,2024,general,NA,Alaska,AK,State Representative,13,AK_2024_G_Alaska_13_State_Representative
+Alaska_20241105_StateHouseD14.tab,2024,general,NA,Alaska,AK,State Representative,14,AK_2024_G_Alaska_14_State_Representative
+Alaska_20241105_StateHouseD15.tab,2024,general,NA,Alaska,AK,State Representative,15,AK_2024_G_Alaska_15_State_Representative
+Alaska_20241105_StateHouseD16.tab,2024,general,NA,Alaska,AK,State Representative,16,AK_2024_G_Alaska_16_State_Representative
+Alaska_20241105_StateHouseD17.tab,2024,general,NA,Alaska,AK,State Representative,17,AK_2024_G_Alaska_17_State_Representative
+Alaska_20241105_StateHouseD18.tab,2024,general,NA,Alaska,AK,State Representative,18,AK_2024_G_Alaska_18_State_Representative
+Alaska_20241105_StateHouseD19.tab,2024,general,NA,Alaska,AK,State Representative,19,AK_2024_G_Alaska_19_State_Representative
+Alaska_20241105_StateHouseD1.tab,2024,general,NA,Alaska,AK,State Representative,1,AK_2024_G_Alaska_01_State_Representative
+Alaska_20241105_StateHouseD20.tab,2024,general,NA,Alaska,AK,State Representative,20,AK_2024_G_Alaska_20_State_Representative
+Alaska_20241105_StateHouseD21.tab,2024,general,NA,Alaska,AK,State Representative,21,AK_2024_G_Alaska_21_State_Representative
+Alaska_20241105_StateHouseD22.tab,2024,general,NA,Alaska,AK,State Representative,22,AK_2024_G_Alaska_22_State_Representative
+Alaska_20241105_StateHouseD23.tab,2024,general,NA,Alaska,AK,State Representative,23,AK_2024_G_Alaska_23_State_Representative
+Alaska_20241105_StateHouseD24.tab,2024,general,NA,Alaska,AK,State Representative,24,AK_2024_G_Alaska_24_State_Representative
+Alaska_20241105_StateHouseD25.tab,2024,general,NA,Alaska,AK,State Representative,25,AK_2024_G_Alaska_25_State_Representative
+Alaska_20241105_StateHouseD26.tab,2024,general,NA,Alaska,AK,State Representative,26,AK_2024_G_Alaska_26_State_Representative
+Alaska_20241105_StateHouseD27.tab,2024,general,NA,Alaska,AK,State Representative,27,AK_2024_G_Alaska_27_State_Representative
+Alaska_20241105_StateHouseD28.tab,2024,general,NA,Alaska,AK,State Representative,28,AK_2024_G_Alaska_28_State_Representative
+Alaska_20241105_StateHouseD29.tab,2024,general,NA,Alaska,AK,State Representative,29,AK_2024_G_Alaska_29_State_Representative
+Alaska_20241105_StateHouseD2.tab,2024,general,NA,Alaska,AK,State Representative,2,AK_2024_G_Alaska_02_State_Representative
+Alaska_20241105_StateHouseD30.tab,2024,general,NA,Alaska,AK,State Representative,30,AK_2024_G_Alaska_30_State_Representative
+Alaska_20241105_StateHouseD31.tab,2024,general,NA,Alaska,AK,State Representative,31,AK_2024_G_Alaska_31_State_Representative
+Alaska_20241105_StateHouseD32.tab,2024,general,NA,Alaska,AK,State Representative,32,AK_2024_G_Alaska_32_State_Representative
+Alaska_20241105_StateHouseD33.tab,2024,general,NA,Alaska,AK,State Representative,33,AK_2024_G_Alaska_33_State_Representative
+Alaska_20241105_StateHouseD34.tab,2024,general,NA,Alaska,AK,State Representative,34,AK_2024_G_Alaska_34_State_Representative
+Alaska_20241105_StateHouseD35.tab,2024,general,NA,Alaska,AK,State Representative,35,AK_2024_G_Alaska_35_State_Representative
+Alaska_20241105_StateHouseD36.tab,2024,general,NA,Alaska,AK,State Representative,36,AK_2024_G_Alaska_36_State_Representative
+Alaska_20241105_StateHouseD37.tab,2024,general,NA,Alaska,AK,State Representative,37,AK_2024_G_Alaska_37_State_Representative
+Alaska_20241105_StateHouseD38.tab,2024,general,NA,Alaska,AK,State Representative,38,AK_2024_G_Alaska_38_State_Representative
+Alaska_20241105_StateHouseD39.tab,2024,general,NA,Alaska,AK,State Representative,39,AK_2024_G_Alaska_39_State_Representative
+Alaska_20241105_StateHouseD3.tab,2024,general,NA,Alaska,AK,State Representative,3,AK_2024_G_Alaska_03_State_Representative
+Alaska_20241105_StateHouseD40.tab,2024,general,NA,Alaska,AK,State Representative,40,AK_2024_G_Alaska_40_State_Representative
+Alaska_20241105_StateHouseD4.tab,2024,general,NA,Alaska,AK,State Representative,4,AK_2024_G_Alaska_04_State_Representative
+Alaska_20241105_StateHouseD5.tab,2024,general,NA,Alaska,AK,State Representative,5,AK_2024_G_Alaska_05_State_Representative
+Alaska_20241105_StateHouseD6.tab,2024,general,NA,Alaska,AK,State Representative,6,AK_2024_G_Alaska_06_State_Representative
+Alaska_20241105_StateHouseD7.tab,2024,general,NA,Alaska,AK,State Representative,7,AK_2024_G_Alaska_07_State_Representative
+Alaska_20241105_StateHouseD8.tab,2024,general,NA,Alaska,AK,State Representative,8,AK_2024_G_Alaska_08_State_Representative
+Alaska_20241105_StateHouseD9.tab,2024,general,NA,Alaska,AK,State Representative,9,AK_2024_G_Alaska_09_State_Representative
+Alaska_20241105_StateSenateB.tab,2024,general,NA,Alaska,AK,State Senate,B,AK_2024_G_Alaska_0B_State_Senate
+Alaska_20241105_StateSenateD.tab,2024,general,NA,Alaska,AK,State Senate,D,AK_2024_G_Alaska_0D_State_Senate
+Alaska_20241105_StateSenateF.tab,2024,general,NA,Alaska,AK,State Senate,F,AK_2024_G_Alaska_0F_State_Senate
+Alaska_20241105_StateSenateH.tab,2024,general,NA,Alaska,AK,State Senate,H,AK_2024_G_Alaska_0H_State_Senate
+Alaska_20241105_StateSenateJ.tab,2024,general,NA,Alaska,AK,State Senate,J,AK_2024_G_Alaska_0J_State_Senate
+Alaska_20241105_StateSenateL.tab,2024,general,NA,Alaska,AK,State Senate,L,AK_2024_G_Alaska_0L_State_Senate
+Alaska_20241105_StateSenateN.tab,2024,general,NA,Alaska,AK,State Senate,N,AK_2024_G_Alaska_0N_State_Senate
+Alaska_20241105_StateSenateP.tab,2024,general,NA,Alaska,AK,State Senate,P,AK_2024_G_Alaska_0P_State_Senate
+Alaska_20241105_StateSenateR.tab,2024,general,NA,Alaska,AK,State Senate,R,AK_2024_G_Alaska_0R_State_Senate
+Alaska_20241105_StateSenateT.tab,2024,general,NA,Alaska,AK,State Senate,T,AK_2024_G_Alaska_0T_State_Senate
+Alaska_20241105_US_House.tab,2024,general,NA,Alaska,AK,U.S. House,At_Large,AK_2024_G_Alaska_At_Large_US_Representative
+Berkeley_20101102_CityAuditor.tab,2010,general,NA,Berkeley,CA,City Auditor,At_Large,CA_2010_G_Berkeley_At_Large_CityAuditor
+Berkeley_20101102_CityCouncilDistrict1.tab,2010,general,NA,Berkeley,CA,City Council,1,CA_2010_G_Berkeley_01_Council
+Berkeley_20101102_CityCouncilDistrict4.tab,2010,general,NA,Berkeley,CA,City Council,4,CA_2010_G_Berkeley_04_Council
+Berkeley_20101102_CityCouncilDistrict7.tab,2010,general,NA,Berkeley,CA,City Council,7,CA_2010_G_Berkeley_07_Council
+Berkeley_20101102_CityCouncilDistrict8.tab,2010,general,NA,Berkeley,CA,City Council,8,CA_2010_G_Berkeley_08_Council
+Berkeley_20121106_CityCouncilDistrict2.tab,2012,general,NA,Berkeley,CA,City Council,2,CA_2012_G_Berkeley_02_Council
+Berkeley_20121106_CityCouncilDistrict3.tab,2012,general,NA,Berkeley,CA,City Council,3,CA_2012_G_Berkeley_03_Council
+Berkeley_20121106_CityCouncilDistrict5.tab,2012,general,NA,Berkeley,CA,City Council,5,CA_2012_G_Berkeley_05_Council
+Berkeley_20121106_CityCouncilDistrict6.tab,2012,general,NA,Berkeley,CA,City Council,6,CA_2012_G_Berkeley_06_Council
+Berkeley_20121106_Mayor.tab,2012,general,NA,Berkeley,CA,Mayor,At_Large,CA_2012_G_Berkeley_At_Large_Mayor
+Berkeley_20141104_CityAuditor.tab,2014,general,NA,Berkeley,CA,City Auditor,At_Large,CA_2014_G_Berkeley_At_Large_CityAuditor
+Berkeley_20141104_CityCouncilDistrict1.tab,2014,general,NA,Berkeley,CA,City Council,1,CA_2014_G_Berkeley_01_Council
+Berkeley_20141104_CityCouncilDistrict7.tab,2014,general,NA,Berkeley,CA,City Council,7,CA_2014_G_Berkeley_07_Council
+Berkeley_20141104_CityCouncilDistrict8.tab,2014,general,NA,Berkeley,CA,City Council,8,CA_2014_G_Berkeley_08_Council
+Berkeley_20161108_CityCouncilDistrict2.tab,2016,general,NA,Berkeley,CA,City Council,2,CA_2016_G_Berkeley_02_Council
+Berkeley_20161108_CityCouncilDistrict3.tab,2016,general,NA,Berkeley,CA,City Council,3,CA_2016_G_Berkeley_03_Council
+Berkeley_20161108_CityCouncilDistrict5.tab,2016,general,NA,Berkeley,CA,City Council,5,CA_2016_G_Berkeley_05_Council
+Berkeley_20161108_CityCouncilDistrict6.tab,2016,general,NA,Berkeley,CA,City Council,6,CA_2016_G_Berkeley_06_Council
+Berkeley_20161108_Mayor.tab,2016,general,NA,Berkeley,CA,Mayor,At_Large,CA_2016_G_Berkeley_At_Large_Mayor
+Berkeley_20170307_CityCouncilDistrict4.tab,2017,general,NA,Berkeley,CA,City Council,4,CA_2017_G_Berkeley_04_Council
+Berkeley_20181106_CityAuditor.tab,2018,general,NA,Berkeley,CA,City Auditor,At_Large,CA_2018_G_Berkeley_At_Large_CityAuditor
+Berkeley_20181106_CityCouncilDistrict1.tab,2018,general,NA,Berkeley,CA,City Council,1,CA_2018_G_Berkeley_01_Council
+Berkeley_20181106_CityCouncilDistrict4.tab,2018,general,NA,Berkeley,CA,City Council,4,CA_2018_G_Berkeley_04_Council
+Berkeley_20181106_CityCouncilDistrict7.tab,2018,general,NA,Berkeley,CA,City Council,7,CA_2018_G_Berkeley_07_Council
+Berkeley_20181106_CityCouncilDistrict8.tab,2018,general,NA,Berkeley,CA,City Council,8,CA_2018_G_Berkeley_08_Council
+Berkeley_20201103_CityCouncilD2.tab,2020,general,NA,Berkeley,CA,City Council,2,CA_2020_G_Berkeley_02_Council
+Berkeley_20201103_CityCouncilD3.tab,2020,general,NA,Berkeley,CA,City Council,3,CA_2020_G_Berkeley_03_Council
+Berkeley_20201103_CityCouncilD5.tab,2020,general,NA,Berkeley,CA,City Council,5,CA_2020_G_Berkeley_05_Council
+Berkeley_20201103_CityCouncilD6.tab,2020,general,NA,Berkeley,CA,City Council,6,CA_2020_G_Berkeley_06_Council
+Berkeley_20201103_Mayor.tab,2020,general,NA,Berkeley,CA,Mayor,At_Large,CA_2020_G_Berkeley_At_Large_Mayor
+Berkeley_20240528_CityCouncilDistrict4_Special.tab,2024,special,NA,Berkeley,CA,City Council,At_Large,CA_2024_S_Berkeley_At_Large_Council
+Berkeley_20241105_CityCouncilD2.tab,2024,general,NA,Berkeley,CA,City Council,2,CA_2024_G_Berkeley_02_Council
+Berkeley_20241105_CityCouncilD3.tab,2024,general,NA,Berkeley,CA,City Council,3,CA_2024_G_Berkeley_03_Council
+Berkeley_20241105_CityCouncilD5.tab,2024,general,NA,Berkeley,CA,City Council,5,CA_2024_G_Berkeley_05_Council
+Berkeley_20241105_CityCouncilD6.tab,2024,general,NA,Berkeley,CA,City Council,6,CA_2024_G_Berkeley_06_Council
+Berkeley_20241105_Mayor.tab,2024,general,NA,Berkeley,CA,Mayor,At_Large,CA_2024_G_Berkeley_At_Large_Mayor
+Bloomington_20231107_CityCouncilAL.tab,2023,general,NA,Bloomington,MN,City Council,At_Large,MN_2023_G_Bloomington_At_Large_Council
+Bloomington_20231107_CityCouncilD4.tab,2023,general,NA,Bloomington,MN,City Council,4,MN_2023_G_Bloomington_04_Council
+Boulder_20231107_Mayor.tab,2023,general,NA,Boulder,CO,Mayor,At_Large,CO_2023_G_Boulder_At_Large_Mayor
+Burlington_20060307_Mayor.tab,2006,general,NA,Burlington,VT,Mayor,At_Large,VT_2006_G_Burlington_At_Large_Mayor
+Burlington_20090303_Mayor.tab,2009,general,NA,Burlington,VT,Mayor,At_Large,VT_2009_G_Burlington_At_Large_Mayor
+Burlington_20230307_CityCouncilCentralDistrict.tab,2023,general,NA,Burlington,VT,City Council,Central,VT_2023_G_Burlington_Central_Council
+Burlington_20230307_CityCouncilEastDistrict.tab,2023,general,NA,Burlington,VT,City Council,East,VT_2023_G_Burlington_East_Council
+Burlington_20230307_CityCouncilNorthDistrict.tab,2023,general,NA,Burlington,VT,City Council,North,VT_2023_G_Burlington_North_Council
+Burlington_20230307_CityCouncilSouthDistrict.tab,2023,general,NA,Burlington,VT,City Council,South,VT_2023_G_Burlington_South_Council
+Burlington_20230307_CityCouncilWard8.tab,2023,general,NA,Burlington,VT,City Council,8,VT_2023_G_Burlington_08_Council
+Burlington_20240305_Mayor.tab,2024,general,NA,Burlington,VT,Mayor,At_Large,VT_2024_G_Burlington_At_Large_Mayor
+Corvallis_20221108_CityCouncilWard9.tab,2022,general,NA,Corvallis,OR,City Council,9,OR_2022_G_Corvallis_09_Council
+Corvallis_20221108_Mayor.tab,2022,general,NA,Corvallis,OR,Mayor,At_Large,OR_2022_G_Corvallis_At_Large_Mayor
+Easthampton_20211102_Mayor.tab,2021,general,NA,Easthampton,MA,Mayor,At_Large,MA_2021_G_Easthampton_At_Large_Mayor
+Eastpointe_20201103_CityCouncil.tab,2020,general,NA,Eastpointe,MI,City Council,At_Large,MI_2020_G_Eastpointe_At_Large_Council
+ElkRidge_20211102_Mayor.tab,2021,general,NA,Elk Ridge,UT,Mayor,At_Large,UT_2021_G_Elk_Ridge_At_Large_Mayor
+LasCruces_20191105_CityCouncilDistrict2.tab,2019,general,NA,Donaana,NM,City Council,2,NM_2019_G_Donaana_02_Council
+LasCruces_20191105_CityCouncilDistrict4.tab,2019,general,NA,Donaana,NM,City Council,4,NM_2019_G_Donaana_04_Council
+LasCruces_20191105_Mayor.tab,2019,general,NA,Donaana,NM,Mayor,At_Large,NM_2019_G_Donaana_At_Large_Mayor
+Maine_20180612_CD2_DemNominee.tab,2018,primary,DEM,Maine,ME,U.S. House,2,ME_2018_P_Maine_02_US_Representative_DEM
+Maine_20180612_Governor_DemNominee.tab,2018,primary,DEM,Maine,ME,Governor,At_Large,ME_2018_P_Maine_At_Large_Governor_DEM
+Maine_20181106_CongressionalDistrict2.tab,2018,general,NA,Maine,ME,U.S. House,2,ME_2018_G_Maine_02_US_Representative
+Maine_20200714_CD2_RepNominee.tab,2020,primary,REP,Maine,ME,U.S. House,2,ME_2020_P_Maine_02_US_Representative_REP
+Maine_20200714_StateHouseDistrict41_DemNominee.tab,2020,primary,DEM,Maine,ME,State House,41,ME_2020_P_Maine_41_State_House_DEM
+Maine_20200714_StateHouseDistrict47_DemNominee.tab,2020,primary,DEM,Maine,ME,State House,47,ME_2020_P_Maine_47_State_House_DEM
+Maine_20200714_StateHouseDistrict49_DemNominee.tab,2020,primary,DEM,Maine,ME,State House,49,ME_2020_P_Maine_49_State_House_DEM
+Maine_20200714_StateHouseDistrict90_DemNominee.tab,2020,primary,DEM,Maine,ME,State House,90,ME_2020_P_Maine_90_State_House_DEM
+Maine_20200714_StateSenateDistrict11_DemNominee.tab,2020,primary,DEM,Maine,ME,State Senate,11,ME_2020_P_Maine_11_State_Senate_DEM
+Maine_20221108_CongressionalDistrict2.tab,2022,general,NA,Maine,ME,U.S. House,2,ME_2022_G_Maine_02_US_Representative
+Maine_20241105_CD2.tab,2024,general,NA,Maine,ME,U.S. House,2,ME_2024_G_Maine_02_US_Representative
+Minneapolis_20091106_Mayor.tab,2009,general,NA,Minneapolis,MN,Mayor,At_Large,MN_2009_G_Minneapolis_At_Large_Mayor
+Minneapolis_20091106_ParksBoardD1.tab,2009,general,NA,Minneapolis,MN,Park Board,1,MN_2009_G_Minneapolis_01_ParkBoard
+Minneapolis_20091106_ParksBoardD2.tab,2009,general,NA,Minneapolis,MN,Park Board,2,MN_2009_G_Minneapolis_02_ParkBoard
+Minneapolis_20091106_ParksBoardD3.tab,2009,general,NA,Minneapolis,MN,Park Board,3,MN_2009_G_Minneapolis_03_ParkBoard
+Minneapolis_20091106_ParksBoardD4.tab,2009,general,NA,Minneapolis,MN,Park Board,4,MN_2009_G_Minneapolis_04_ParkBoard
+Minneapolis_20091106_ParksBoardD5.tab,2009,general,NA,Minneapolis,MN,Park Board,5,MN_2009_G_Minneapolis_05_ParkBoard
+Minneapolis_20091106_ParksBoardD6.tab,2009,general,NA,Minneapolis,MN,Park Board,6,MN_2009_G_Minneapolis_06_ParkBoard
+Minneapolis_20091106_Ward10CityCouncil.tab,2009,general,NA,Minneapolis,MN,City Council,10,MN_2009_G_Minneapolis_10_Council
+Minneapolis_20091106_Ward11CityCouncil.tab,2009,general,NA,Minneapolis,MN,City Council,11,MN_2009_G_Minneapolis_11_Council
+Minneapolis_20091106_Ward12CityCouncil.tab,2009,general,NA,Minneapolis,MN,City Council,12,MN_2009_G_Minneapolis_12_Council
+Minneapolis_20091106_Ward13CityCouncil.tab,2009,general,NA,Minneapolis,MN,City Council,13,MN_2009_G_Minneapolis_13_Council
+Minneapolis_20091106_Ward1CityCouncil.tab,2009,general,NA,Minneapolis,MN,City Council,1,MN_2009_G_Minneapolis_01_Council
+Minneapolis_20091106_Ward2CityCouncil.tab,2009,general,NA,Minneapolis,MN,City Council,2,MN_2009_G_Minneapolis_02_Council
+Minneapolis_20091106_Ward3CityCouncil.tab,2009,general,NA,Minneapolis,MN,City Council,3,MN_2009_G_Minneapolis_03_Council
+Minneapolis_20091106_Ward4CityCouncil.tab,2009,general,NA,Minneapolis,MN,City Council,4,MN_2009_G_Minneapolis_04_Council
+Minneapolis_20091106_Ward5CityCouncil.tab,2009,general,NA,Minneapolis,MN,City Council,5,MN_2009_G_Minneapolis_05_Council
+Minneapolis_20091106_Ward6CityCouncil.tab,2009,general,NA,Minneapolis,MN,City Council,6,MN_2009_G_Minneapolis_06_Council
+Minneapolis_20091106_Ward7CityCouncil.tab,2009,general,NA,Minneapolis,MN,City Council,7,MN_2009_G_Minneapolis_07_Council
+Minneapolis_20091106_Ward8CityCouncil.tab,2009,general,NA,Minneapolis,MN,City Council,8,MN_2009_G_Minneapolis_08_Council
+Minneapolis_20091106_Ward9CityCouncil.tab,2009,general,NA,Minneapolis,MN,City Council,9,MN_2009_G_Minneapolis_09_Council
+Minneapolis_20131105_CityCouncilWard13.tab,2013,general,NA,Minneapolis,MN,City Council,13,MN_2013_G_Minneapolis_13_Council
+Minneapolis_20131105_CityCouncilWard5.tab,2013,general,NA,Minneapolis,MN,City Council,5,MN_2013_G_Minneapolis_05_Council
+Minneapolis_20131105_CityCouncilWard9.tab,2013,general,NA,Minneapolis,MN,City Council,9,MN_2013_G_Minneapolis_09_Council
+Minneapolis_20131105_Mayor.tab,2013,general,NA,Minneapolis,MN,Mayor,At_Large,MN_2013_G_Minneapolis_At_Large_Mayor
+Minneapolis_20131105_ParksBoardD2.tab,2013,general,NA,Minneapolis,MN,Park Board,2,MN_2013_G_Minneapolis_02_ParkBoard
+Minneapolis_20131105_ParksBoardD6.tab,2013,general,NA,Minneapolis,MN,Park Board,6,MN_2013_G_Minneapolis_06_ParkBoard
+Minneapolis_20171107_CityCouncilWard10.tab,2017,general,NA,Minneapolis,MN,City Council,10,MN_2017_G_Minneapolis_10_Council
+Minneapolis_20171107_CityCouncilWard11.tab,2017,general,NA,Minneapolis,MN,City Council,11,MN_2017_G_Minneapolis_11_Council
+Minneapolis_20171107_CityCouncilWard12.tab,2017,general,NA,Minneapolis,MN,City Council,12,MN_2017_G_Minneapolis_12_Council
+Minneapolis_20171107_CityCouncilWard13.tab,2017,general,NA,Minneapolis,MN,City Council,13,MN_2017_G_Minneapolis_13_Council
+Minneapolis_20171107_CityCouncilWard1.tab,2017,general,NA,Minneapolis,MN,City Council,1,MN_2017_G_Minneapolis_01_Council
+Minneapolis_20171107_CityCouncilWard2.tab,2017,general,NA,Minneapolis,MN,City Council,2,MN_2017_G_Minneapolis_02_Council
+Minneapolis_20171107_CityCouncilWard3.tab,2017,general,NA,Minneapolis,MN,City Council,3,MN_2017_G_Minneapolis_03_Council
+Minneapolis_20171107_CityCouncilWard4.tab,2017,general,NA,Minneapolis,MN,City Council,4,MN_2017_G_Minneapolis_04_Council
+Minneapolis_20171107_CityCouncilWard5.tab,2017,general,NA,Minneapolis,MN,City Council,5,MN_2017_G_Minneapolis_05_Council
+Minneapolis_20171107_CityCouncilWard6.tab,2017,general,NA,Minneapolis,MN,City Council,6,MN_2017_G_Minneapolis_06_Council
+Minneapolis_20171107_CityCouncilWard7.tab,2017,general,NA,Minneapolis,MN,City Council,7,MN_2017_G_Minneapolis_07_Council
+Minneapolis_20171107_CityCouncilWard8.tab,2017,general,NA,Minneapolis,MN,City Council,8,MN_2017_G_Minneapolis_08_Council
+Minneapolis_20171107_CityCouncilWard9.tab,2017,general,NA,Minneapolis,MN,City Council,9,MN_2017_G_Minneapolis_09_Council
+Minneapolis_20171107_Mayor.tab,2017,general,NA,Minneapolis,MN,Mayor,At_Large,MN_2017_G_Minneapolis_At_Large_Mayor
+Minneapolis_20171107_ParksBoardD1.tab,2017,general,NA,Minneapolis,MN,Park Board,1,MN_2017_G_Minneapolis_01_ParkBoard
+Minneapolis_20171107_ParksBoardD2.tab,2017,general,NA,Minneapolis,MN,Park Board,2,MN_2017_G_Minneapolis_02_ParkBoard
+Minneapolis_20171107_ParksBoardD3.tab,2017,general,NA,Minneapolis,MN,Park Board,3,MN_2017_G_Minneapolis_03_ParkBoard
+Minneapolis_20171107_ParksBoardD4.tab,2017,general,NA,Minneapolis,MN,Park Board,4,MN_2017_G_Minneapolis_04_ParkBoard
+Minneapolis_20171107_ParksBoardD5.tab,2017,general,NA,Minneapolis,MN,Park Board,5,MN_2017_G_Minneapolis_05_ParkBoard
+Minneapolis_20171107_ParksBoardD6.tab,2017,general,NA,Minneapolis,MN,Park Board,6,MN_2017_G_Minneapolis_06_ParkBoard
+Minneapolis_20200811_CityCouncilWard6_Special.tab,2020,special,NA,Minneapolis,MN,City Council,At_Large,MN_2020_S_Minneapolis_At_Large_Council
+Minneapolis_20211102_CityCouncilWard10.tab,2021,general,NA,Minneapolis,MN,City Council,10,MN_2021_G_Minneapolis_10_Council
+Minneapolis_20211102_CityCouncilWard11.tab,2021,general,NA,Minneapolis,MN,City Council,11,MN_2021_G_Minneapolis_11_Council
+Minneapolis_20211102_CityCouncilWard12.tab,2021,general,NA,Minneapolis,MN,City Council,12,MN_2021_G_Minneapolis_12_Council
+Minneapolis_20211102_CityCouncilWard13.tab,2021,general,NA,Minneapolis,MN,City Council,13,MN_2021_G_Minneapolis_13_Council
+Minneapolis_20211102_CityCouncilWard1.tab,2021,general,NA,Minneapolis,MN,City Council,1,MN_2021_G_Minneapolis_01_Council
+Minneapolis_20211102_CityCouncilWard2.tab,2021,general,NA,Minneapolis,MN,City Council,2,MN_2021_G_Minneapolis_02_Council
+Minneapolis_20211102_CityCouncilWard3.tab,2021,general,NA,Minneapolis,MN,City Council,3,MN_2021_G_Minneapolis_03_Council
+Minneapolis_20211102_CityCouncilWard4.tab,2021,general,NA,Minneapolis,MN,City Council,4,MN_2021_G_Minneapolis_04_Council
+Minneapolis_20211102_CityCouncilWard5.tab,2021,general,NA,Minneapolis,MN,City Council,5,MN_2021_G_Minneapolis_05_Council
+Minneapolis_20211102_CityCouncilWard6.tab,2021,general,NA,Minneapolis,MN,City Council,6,MN_2021_G_Minneapolis_06_Council
+Minneapolis_20211102_CityCouncilWard7.tab,2021,general,NA,Minneapolis,MN,City Council,7,MN_2021_G_Minneapolis_07_Council
+Minneapolis_20211102_CityCouncilWard8.tab,2021,general,NA,Minneapolis,MN,City Council,8,MN_2021_G_Minneapolis_08_Council
+Minneapolis_20211102_CityCouncilWard9.tab,2021,general,NA,Minneapolis,MN,City Council,9,MN_2021_G_Minneapolis_09_Council
+Minneapolis_20211102_Mayor.tab,2021,general,NA,Minneapolis,MN,Mayor,At_Large,MN_2021_G_Minneapolis_At_Large_Mayor
+Minneapolis_20211102_ParkBoardDistrict1.tab,2021,general,NA,Minneapolis,MN,Park Board,1,MN_2021_G_Minneapolis_01_ParkBoard
+Minneapolis_20211102_ParkBoardDistrict2.tab,2021,general,NA,Minneapolis,MN,Park Board,2,MN_2021_G_Minneapolis_02_ParkBoard
+Minneapolis_20211102_ParkBoardDistrict3.tab,2021,general,NA,Minneapolis,MN,Park Board,3,MN_2021_G_Minneapolis_03_ParkBoard
+Minneapolis_20211102_ParkBoardDistrict4.tab,2021,general,NA,Minneapolis,MN,Park Board,4,MN_2021_G_Minneapolis_04_ParkBoard
+Minneapolis_20211102_ParkBoardDistrict5.tab,2021,general,NA,Minneapolis,MN,Park Board,5,MN_2021_G_Minneapolis_05_ParkBoard
+Minneapolis_20211102_ParkBoardDistrict6.tab,2021,general,NA,Minneapolis,MN,Park Board,6,MN_2021_G_Minneapolis_06_ParkBoard
+Minneapolis_20231107_CityCouncilW10.tab,2023,general,NA,Minneapolis,MN,City Council,10,MN_2023_G_Minneapolis_10_Council
+Minneapolis_20231107_CityCouncilW11.tab,2023,general,NA,Minneapolis,MN,City Council,11,MN_2023_G_Minneapolis_11_Council
+Minneapolis_20231107_CityCouncilW12.tab,2023,general,NA,Minneapolis,MN,City Council,12,MN_2023_G_Minneapolis_12_Council
+Minneapolis_20231107_CityCouncilW13.tab,2023,general,NA,Minneapolis,MN,City Council,13,MN_2023_G_Minneapolis_13_Council
+Minneapolis_20231107_CityCouncilW1.tab,2023,general,NA,Minneapolis,MN,City Council,1,MN_2023_G_Minneapolis_01_Council
+Minneapolis_20231107_CityCouncilW2.tab,2023,general,NA,Minneapolis,MN,City Council,2,MN_2023_G_Minneapolis_02_Council
+Minneapolis_20231107_CityCouncilW3.tab,2023,general,NA,Minneapolis,MN,City Council,3,MN_2023_G_Minneapolis_03_Council
+Minneapolis_20231107_CityCouncilW4.tab,2023,general,NA,Minneapolis,MN,City Council,4,MN_2023_G_Minneapolis_04_Council
+Minneapolis_20231107_CityCouncilW5.tab,2023,general,NA,Minneapolis,MN,City Council,5,MN_2023_G_Minneapolis_05_Council
+Minneapolis_20231107_CityCouncilW6.tab,2023,general,NA,Minneapolis,MN,City Council,6,MN_2023_G_Minneapolis_06_Council
+Minneapolis_20231107_CityCouncilW7.tab,2023,general,NA,Minneapolis,MN,City Council,7,MN_2023_G_Minneapolis_07_Council
+Minneapolis_20231107_CityCouncilW8.tab,2023,general,NA,Minneapolis,MN,City Council,8,MN_2023_G_Minneapolis_08_Council
+Minneapolis_20231107_CityCouncilW9.tab,2023,general,NA,Minneapolis,MN,City Council,9,MN_2023_G_Minneapolis_09_Council
+Minnetonka_20211102_CityCouncilAtLargeSeatA.tab,2021,general,NA,Minnetonka,MN,City Council,At_Large,MN_2021_G_Minnetonka_At_Large_Council
+Minnetonka_20211102_CityCouncilAtLargeSeatB.tab,2021,general,NA,Minnetonka,MN,City Council,At_Large,MN_2021_G_Minnetonka_At_Large_Council
+Minnetonka_20211102_Mayor.tab,2021,general,NA,Minnetonka,MN,Mayor,At_Large,MN_2021_G_Minnetonka_At_Large_Mayor
+Minnetonka_20231107_CityCouncilWard1.tab,2023,general,NA,Minnetonka,MN,City Council,1,MN_2023_G_Minnetonka_01_Council
+Minnetonka_20231107_CityCouncilWard2.tab,2023,general,NA,Minnetonka,MN,City Council,2,MN_2023_G_Minnetonka_02_Council
+Minnetonka_20231107_CityCouncilWard3.tab,2023,general,NA,Minnetonka,MN,City Council,3,MN_2023_G_Minnetonka_03_Council
+Minnetonka_20231107_CityCouncilWard4.tab,2023,general,NA,Minnetonka,MN,City Council,4,MN_2023_G_Minnetonka_04_Council
+NewYorkCity_20210622_CON_CityCouncilD19.tab,2021,primary,CON,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_CON
+NewYorkCity_20210622_DEM_BoroughPresidentBronx.tab,2021,primary,DEM,New York City,NY,U.S. President,At_Large,NY_2021_P_New_York_City_At_Large_US_President_DEM
+NewYorkCity_20210622_DEM_BoroughPresidentKings.tab,2021,primary,DEM,New York City,NY,U.S. President,At_Large,NY_2021_P_New_York_City_At_Large_US_President_DEM
+NewYorkCity_20210622_DEM_BoroughPresidentNewYork.tab,2021,primary,DEM,New York City,NY,U.S. President,At_Large,NY_2021_P_New_York_City_At_Large_US_President_DEM
+NewYorkCity_20210622_DEM_BoroughPresidentQueens.tab,2021,primary,DEM,New York City,NY,U.S. President,At_Large,NY_2021_P_New_York_City_At_Large_US_President_DEM
+NewYorkCity_20210622_DEM_BoroughPresidentRichmond.tab,2021,primary,DEM,New York City,NY,U.S. President,At_Large,NY_2021_P_New_York_City_At_Large_US_President_DEM
+NewYorkCity_20210622_DEM_CityCouncilD10.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD11.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD12.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD13.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD14.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD15.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD16.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD17.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD18.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD19.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD1.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD20.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD21.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD22.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD23.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD24.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD25.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD26.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD27.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD28.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD29.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD2.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD30.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD31.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD32.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD33.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD34.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD35.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD36.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD37.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD38.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD39.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD3.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD40.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD41.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD42.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD45.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD46.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD47.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD48.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD49.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD5.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD6.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD7.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD8.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_CityCouncilD9.tab,2021,primary,DEM,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20210622_DEM_Comptroller.tab,2021,primary,DEM,New York City,NY,Comptroller,At_Large,NY_2021_P_New_York_City_At_Large_Comptroller_DEM
+NewYorkCity_20210622_DEM_Mayor.tab,2021,primary,DEM,New York City,NY,Mayor,At_Large,NY_2021_P_New_York_City_At_Large_Mayor_DEM
+NewYorkCity_20210622_DEM_PublicAdvocateCitywide.tab,2021,primary,DEM,New York City,NY,Public Advocate,At_Large,NY_2021_P_New_York_City_At_Large_PublicAdvocate_DEM
+NewYorkCity_20210622_REP_BoroughPresidentRichmond.tab,2021,primary,REP,New York City,NY,U.S. President,At_Large,NY_2021_P_New_York_City_At_Large_US_President_REP
+NewYorkCity_20210622_REP_CityCouncilD15.tab,2021,primary,REP,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_REP
+NewYorkCity_20210622_REP_CityCouncilD19.tab,2021,primary,REP,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_REP
+NewYorkCity_20210622_REP_CityCouncilD23.tab,2021,primary,REP,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_REP
+NewYorkCity_20210622_REP_CityCouncilD24.tab,2021,primary,REP,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_REP
+NewYorkCity_20210622_REP_CityCouncilD32.tab,2021,primary,REP,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_REP
+NewYorkCity_20210622_REP_CityCouncilD50.tab,2021,primary,REP,New York City,NY,City Council,Manhattan,NY_2021_P_New_York_City_Manhattan_Council_REP
+NewYorkCity_20210622_REP_Mayor.tab,2021,primary,REP,New York City,NY,Mayor,At_Large,NY_2021_P_New_York_City_At_Large_Mayor_REP
+NewYorkCity_20230627_CON_CityCouncilD13.tab,2023,primary,CON,New York City,NY,City Council,Manhattan,NY_2023_P_New_York_City_Manhattan_Council_CON
+NewYorkCity_20230627_DEM_CityCouncilD10.tab,2023,primary,DEM,New York City,NY,City Council,Manhattan,NY_2023_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20230627_DEM_CityCouncilD12.tab,2023,primary,DEM,New York City,NY,City Council,Manhattan,NY_2023_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20230627_DEM_CityCouncilD13.tab,2023,primary,DEM,New York City,NY,City Council,Manhattan,NY_2023_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20230627_DEM_CityCouncilD14.tab,2023,primary,DEM,New York City,NY,City Council,Manhattan,NY_2023_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20230627_DEM_CityCouncilD19.tab,2023,primary,DEM,New York City,NY,City Council,Manhattan,NY_2023_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20230627_DEM_CityCouncilD1.tab,2023,primary,DEM,New York City,NY,City Council,Manhattan,NY_2023_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20230627_DEM_CityCouncilD22.tab,2023,primary,DEM,New York City,NY,City Council,Manhattan,NY_2023_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20230627_DEM_CityCouncilD23.tab,2023,primary,DEM,New York City,NY,City Council,Manhattan,NY_2023_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20230627_DEM_CityCouncilD25.tab,2023,primary,DEM,New York City,NY,City Council,Manhattan,NY_2023_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20230627_DEM_CityCouncilD26.tab,2023,primary,DEM,New York City,NY,City Council,Manhattan,NY_2023_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20230627_DEM_CityCouncilD29.tab,2023,primary,DEM,New York City,NY,City Council,Manhattan,NY_2023_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20230627_DEM_CityCouncilD2.tab,2023,primary,DEM,New York City,NY,City Council,Manhattan,NY_2023_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20230627_DEM_CityCouncilD34.tab,2023,primary,DEM,New York City,NY,City Council,Manhattan,NY_2023_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20230627_DEM_CityCouncilD41.tab,2023,primary,DEM,New York City,NY,City Council,Manhattan,NY_2023_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20230627_DEM_CityCouncilD42.tab,2023,primary,DEM,New York City,NY,City Council,Manhattan,NY_2023_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20230627_DEM_CityCouncilD43.tab,2023,primary,DEM,New York City,NY,City Council,Manhattan,NY_2023_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20230627_DEM_CityCouncilD9.tab,2023,primary,DEM,New York City,NY,City Council,Manhattan,NY_2023_P_New_York_City_Manhattan_Council_DEM
+NewYorkCity_20230627_REP_CityCouncilD13.tab,2023,primary,REP,New York City,NY,City Council,Manhattan,NY_2023_P_New_York_City_Manhattan_Council_REP
+NewYorkCity_20230627_REP_CityCouncilD20.tab,2023,primary,REP,New York City,NY,City Council,Manhattan,NY_2023_P_New_York_City_Manhattan_Council_REP
+NewYorkCity_20230627_REP_CityCouncilD43.tab,2023,primary,REP,New York City,NY,City Council,Manhattan,NY_2023_P_New_York_City_Manhattan_Council_REP
+NewYorkCity_20230627_REP_CityCouncilD44.tab,2023,primary,REP,New York City,NY,City Council,Manhattan,NY_2023_P_New_York_City_Manhattan_Council_REP
+NewYorkCity_20230627_REP_CityCouncilD47.tab,2023,primary,REP,New York City,NY,City Council,Manhattan,NY_2023_P_New_York_City_Manhattan_Council_REP
+NewYorkCity_20230627_REP_CityCouncilD48.tab,2023,primary,REP,New York City,NY,City Council,Manhattan,NY_2023_P_New_York_City_Manhattan_Council_REP
+NewYorkCity_20250325_DEMCityCouncilD44.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250429_DEMCityCouncilD51.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMBoroughPresidentBronx.tab,2025,general,NA,New York City,NY,U.S. President,At_Large,NY_2025_G_New_York_City_At_Large_US_President
+NewYorkCity_20250624_DEMBoroughPresidentKings.tab,2025,general,NA,New York City,NY,U.S. President,At_Large,NY_2025_G_New_York_City_At_Large_US_President
+NewYorkCity_20250624_DEMBoroughPresidentManhattan.tab,2025,general,NA,New York City,NY,U.S. President,At_Large,NY_2025_G_New_York_City_At_Large_US_President
+NewYorkCity_20250624_DEMCityCouncilD10.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMCityCouncilD11.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMCityCouncilD12.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMCityCouncilD13.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMCityCouncilD14.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMCityCouncilD16.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMCityCouncilD17.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMCityCouncilD19.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMCityCouncilD1.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMCityCouncilD21.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMCityCouncilD25.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMCityCouncilD28.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMCityCouncilD2.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMCityCouncilD30.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMCityCouncilD33.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMCityCouncilD35.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMCityCouncilD36.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMCityCouncilD38.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMCityCouncilD39.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMCityCouncilD3.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMCityCouncilD41.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMCityCouncilD46.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMCityCouncilD47.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMCityCouncilD49.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMCityCouncilD4.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMCityCouncilD5.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMCityCouncilD7.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMCityCouncilD8.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_DEMComptroller.tab,2025,general,NA,New York City,NY,Comptroller,At_Large,NY_2025_G_New_York_City_At_Large_Comptroller
+NewYorkCity_20250624_DEMMayorCitywide.tab,2025,general,NA,New York City,NY,Mayor,At_Large,NY_2025_G_New_York_City_At_Large_Mayor
+NewYorkCity_20250624_DEMPublicAdvocate.tab,2025,general,NA,New York City,NY,Public Advocate,At_Large,NY_2025_G_New_York_City_At_Large_PublicAdvocate
+NewYorkCity_20250624_REPCityCouncilD47.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_REPCityCouncilD48.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_REPCityCouncilD51.tab,2025,general,NA,New York City,NY,City Council,Manhattan,NY_2025_G_New_York_City_Manhattan_Council
+NewYorkCity_20250624_REPComptroller.tab,2025,general,NA,New York City,NY,Comptroller,At_Large,NY_2025_G_New_York_City_At_Large_Comptroller
+Oakland_20101102_CityAuditor.tab,2010,general,NA,Oakland,CA,City Auditor,At_Large,CA_2010_G_Oakland_At_Large_CityAuditor
+Oakland_20101102_CityCouncilDistrict2.tab,2010,general,NA,Oakland,CA,City Council,2,CA_2010_G_Oakland_02_Council
+Oakland_20101102_CityCouncilDistrict4.tab,2010,general,NA,Oakland,CA,City Council,4,CA_2010_G_Oakland_04_Council
+Oakland_20101102_CityCouncilDistrict6.tab,2010,general,NA,Oakland,CA,City Council,6,CA_2010_G_Oakland_06_Council
+Oakland_20101102_Mayor.tab,2010,general,NA,Oakland,CA,Mayor,At_Large,CA_2010_G_Oakland_At_Large_Mayor
+Oakland_20101102_SchoolDirectorDistrict2.tab,2010,general,NA,Oakland,CA,School Board,2,CA_2010_G_Oakland_02_SchoolBoard
+Oakland_20101102_SchoolDirectorDistrict4.tab,2010,general,NA,Oakland,CA,School Board,4,CA_2010_G_Oakland_04_SchoolBoard
+Oakland_20101102_SchoolDirectorDistrict6.tab,2010,general,NA,Oakland,CA,School Board,6,CA_2010_G_Oakland_06_SchoolBoard
+Oakland_20121106_CityAttorney.tab,2012,general,NA,Oakland,CA,City Attorney,At_Large,CA_2012_G_Oakland_At_Large_CityAttorney
+Oakland_20121106_CityCouncilAtLarge.tab,2012,general,NA,Oakland,CA,City Council,At_Large,CA_2012_G_Oakland_At_Large_Council
+Oakland_20121106_CityCouncilDistrict1.tab,2012,general,NA,Oakland,CA,City Council,1,CA_2012_G_Oakland_01_Council
+Oakland_20121106_CityCouncilDistrict3.tab,2012,general,NA,Oakland,CA,City Council,3,CA_2012_G_Oakland_03_Council
+Oakland_20121106_CityCouncilDistrict5.tab,2012,general,NA,Oakland,CA,City Council,5,CA_2012_G_Oakland_05_Council
+Oakland_20121106_CityCouncilDistrict7.tab,2012,general,NA,Oakland,CA,City Council,7,CA_2012_G_Oakland_07_Council
+Oakland_20121106_SchoolDirectorDistrict1.tab,2012,general,NA,Oakland,CA,School Board,1,CA_2012_G_Oakland_01_SchoolBoard
+Oakland_20121106_SchoolDirectorDistrict3.tab,2012,general,NA,Oakland,CA,School Board,3,CA_2012_G_Oakland_03_SchoolBoard
+Oakland_20121106_SchoolDirectorDistrict5.tab,2012,general,NA,Oakland,CA,School Board,5,CA_2012_G_Oakland_05_SchoolBoard
+Oakland_20121106_SchoolDirectorDistrict7.tab,2012,general,NA,Oakland,CA,School Board,7,CA_2012_G_Oakland_07_SchoolBoard
+Oakland_20141104_CityAuditor.tab,2014,general,NA,Oakland,CA,City Auditor,At_Large,CA_2014_G_Oakland_At_Large_CityAuditor
+Oakland_20141104_CityCouncilDistrict2.tab,2014,general,NA,Oakland,CA,City Council,2,CA_2014_G_Oakland_02_Council
+Oakland_20141104_CityCouncilDistrict4.tab,2014,general,NA,Oakland,CA,City Council,4,CA_2014_G_Oakland_04_Council
+Oakland_20141104_CityCouncilDistrict6.tab,2014,general,NA,Oakland,CA,City Council,6,CA_2014_G_Oakland_06_Council
+Oakland_20141104_Mayor.tab,2014,general,NA,Oakland,CA,Mayor,At_Large,CA_2014_G_Oakland_At_Large_Mayor
+Oakland_20141104_SchoolDirectorDistrict2.tab,2014,general,NA,Oakland,CA,School Board,2,CA_2014_G_Oakland_02_SchoolBoard
+Oakland_20141104_SchoolDirectorDistrict4.tab,2014,general,NA,Oakland,CA,School Board,4,CA_2014_G_Oakland_04_SchoolBoard
+Oakland_20141104_SchoolDirectorDistrict6.tab,2014,general,NA,Oakland,CA,School Board,6,CA_2014_G_Oakland_06_SchoolBoard
+Oakland_20161108_CityAttorney.tab,2016,general,NA,Oakland,CA,City Attorney,At_Large,CA_2016_G_Oakland_At_Large_CityAttorney
+Oakland_20161108_CityCouncilDistrict1.tab,2016,general,NA,Oakland,CA,City Council,1,CA_2016_G_Oakland_01_Council
+Oakland_20161108_CityCouncilDistrict3.tab,2016,general,NA,Oakland,CA,City Council,3,CA_2016_G_Oakland_03_Council
+Oakland_20161108_CityCouncilDistrict5.tab,2016,general,NA,Oakland,CA,City Council,5,CA_2016_G_Oakland_05_Council
+Oakland_20161108_CityCouncilDistrict7.tab,2016,general,NA,Oakland,CA,City Council,7,CA_2016_G_Oakland_07_Council
+Oakland_20161108_CouncilAtLarge.tab,2016,general,NA,Oakland,CA,City Council,At_Large,CA_2016_G_Oakland_At_Large_Council
+Oakland_20161108_SchoolDirectorDistrict1.tab,2016,general,NA,Oakland,CA,School Board,1,CA_2016_G_Oakland_01_SchoolBoard
+Oakland_20161108_SchoolDirectorDistrict3.tab,2016,general,NA,Oakland,CA,School Board,3,CA_2016_G_Oakland_03_SchoolBoard
+Oakland_20161108_SchoolDirectorDistrict5.tab,2016,general,NA,Oakland,CA,School Board,5,CA_2016_G_Oakland_05_SchoolBoard
+Oakland_20161108_SchoolDirectorDistrict7.tab,2016,general,NA,Oakland,CA,School Board,7,CA_2016_G_Oakland_07_SchoolBoard
+Oakland_20181106_CityAuditor.tab,2018,general,NA,Oakland,CA,City Auditor,At_Large,CA_2018_G_Oakland_At_Large_CityAuditor
+Oakland_20181106_CityCouncilDistrict2.tab,2018,general,NA,Oakland,CA,City Council,2,CA_2018_G_Oakland_02_Council
+Oakland_20181106_CityCouncilDistrict4.tab,2018,general,NA,Oakland,CA,City Council,4,CA_2018_G_Oakland_04_Council
+Oakland_20181106_CityCouncilDistrict6.tab,2018,general,NA,Oakland,CA,City Council,6,CA_2018_G_Oakland_06_Council
+Oakland_20181106_Mayor.tab,2018,general,NA,Oakland,CA,Mayor,At_Large,CA_2018_G_Oakland_At_Large_Mayor
+Oakland_20181106_SchoolDirectorDistrict2.tab,2018,general,NA,Oakland,CA,School Board,2,CA_2018_G_Oakland_02_SchoolBoard
+Oakland_20181106_SchoolDirectorDistrict4.tab,2018,general,NA,Oakland,CA,School Board,4,CA_2018_G_Oakland_04_SchoolBoard
+Oakland_20181106_SchoolDirectorDistrict6.tab,2018,general,NA,Oakland,CA,School Board,6,CA_2018_G_Oakland_06_SchoolBoard
+Oakland_20201103_CityAttorney.tab,2020,general,NA,Oakland,CA,City Attorney,At_Large,CA_2020_G_Oakland_At_Large_CityAttorney
+Oakland_20201103_CityCouncilAtLarge.tab,2020,general,NA,Oakland,CA,City Council,At_Large,CA_2020_G_Oakland_At_Large_Council
+Oakland_20201103_CityCouncilD1.tab,2020,general,NA,Oakland,CA,City Council,1,CA_2020_G_Oakland_01_Council
+Oakland_20201103_CityCouncilD3.tab,2020,general,NA,Oakland,CA,City Council,3,CA_2020_G_Oakland_03_Council
+Oakland_20201103_CityCouncilD5.tab,2020,general,NA,Oakland,CA,City Council,5,CA_2020_G_Oakland_05_Council
+Oakland_20201103_CityCouncilD7.tab,2020,general,NA,Oakland,CA,City Council,7,CA_2020_G_Oakland_07_Council
+Oakland_20201103_SchoolDirectorDist1.tab,2020,general,NA,Oakland,CA,School Board,1,CA_2020_G_Oakland_01_SchoolBoard
+Oakland_20201103_SchoolDirectorDist3.tab,2020,general,NA,Oakland,CA,School Board,3,CA_2020_G_Oakland_03_SchoolBoard
+Oakland_20201103_SchoolDirectorDist5.tab,2020,general,NA,Oakland,CA,School Board,5,CA_2020_G_Oakland_05_SchoolBoard
+Oakland_20201103_SchoolDirectorDist7.tab,2020,general,NA,Oakland,CA,School Board,7,CA_2020_G_Oakland_07_SchoolBoard
+Oakland_20221108_CityAuditor.tab,2022,general,NA,Oakland,CA,City Auditor,At_Large,CA_2022_G_Oakland_At_Large_CityAuditor
+Oakland_20221108_CityCouncilmemberDistrict4.tab,2022,general,NA,Oakland,CA,City Council,4,CA_2022_G_Oakland_04_Council
+Oakland_20221108_CityCouncilmemberDistrict6.tab,2022,general,NA,Oakland,CA,City Council,6,CA_2022_G_Oakland_06_Council
+Oakland_20221108_Mayor.tab,2022,general,NA,Oakland,CA,Mayor,At_Large,CA_2022_G_Oakland_At_Large_Mayor
+Oakland_20221108_SchoolBoardD2.tab,2022,general,NA,Oakland,CA,School Board,2,CA_2022_G_Oakland_02_SchoolBoard
+Oakland_20221108_SchoolBoardD4.tab,2022,general,NA,Oakland,CA,School Board,4,CA_2022_G_Oakland_04_SchoolBoard
+Oakland_20221108_SchoolBoardD6.tab,2022,general,NA,Oakland,CA,School Board,6,CA_2022_G_Oakland_06_SchoolBoard
+Oakland_20241105_CityAttorney.tab,2024,general,NA,Oakland,CA,City Attorney,At_Large,CA_2024_G_Oakland_At_Large_CityAttorney
+Oakland_20241105_CityCouncil_AtLarge.tab,2024,general,NA,Oakland,CA,City Council,At_Large,CA_2024_G_Oakland_At_Large_Council
+Oakland_20241105_CityCouncilD1.tab,2024,general,NA,Oakland,CA,City Council,1,CA_2024_G_Oakland_01_Council
+Oakland_20241105_CityCouncilD3.tab,2024,general,NA,Oakland,CA,City Council,3,CA_2024_G_Oakland_03_Council
+Oakland_20241105_CityCouncilD5.tab,2024,general,NA,Oakland,CA,City Council,5,CA_2024_G_Oakland_05_Council
+Oakland_20241105_CityCouncilD7.tab,2024,general,NA,Oakland,CA,City Council,7,CA_2024_G_Oakland_07_Council
+Oakland_20241105_SchoolDirectorD1.tab,2024,general,NA,Oakland,CA,School Board,1,CA_2024_G_Oakland_01_SchoolBoard
+Oakland_20241105_SchoolDirectorD3.tab,2024,general,NA,Oakland,CA,School Board,3,CA_2024_G_Oakland_03_SchoolBoard
+Oakland_20241105_SchoolDirectorD5.tab,2024,general,NA,Oakland,CA,School Board,5,CA_2024_G_Oakland_05_SchoolBoard
+Oakland_20241105_SchoolDirectorD7.tab,2024,general,NA,Oakland,CA,School Board,7,CA_2024_G_Oakland_07_SchoolBoard
+Oakland_20250415_CityCouncilD2.tab,2025,general,NA,Oakland,CA,City Council,2,CA_2025_G_Oakland_02_Council
+Oakland_20250415_Mayor.tab,2025,general,NA,Oakland,CA,Mayor,At_Large,CA_2025_G_Oakland_At_Large_Mayor
+PierceCounty_20081104_CountyAssessorTreasurer.tab,2008,general,NA,Pierce,WA,Treasurer,At_Large,WA_2008_G_Pierce_At_Large_Treasurer
+PierceCounty_20081104_CountyCouncilDistrict2.tab,2008,general,NA,Pierce,WA,City Council,2,WA_2008_G_Pierce_02_Council
+PierceCounty_20081104_CountyExecutiveMember.tab,2008,general,NA,Pierce,WA,County Executive,At_Large,WA_2008_G_Pierce_At_Large_CountyExecutive
+PierceCounty_20091103_CountyAuditor.tab,2009,general,NA,Pierce,WA,City Auditor,At_Large,WA_2009_G_Pierce_At_Large_CityAuditor
+PortlandME_20211102_CityCouncilAL.tab,2021,general,NA,Portland,ME,City Council,At_Large,ME_2021_G_Portland_At_Large_Council
+PortlandME_20220614_SchoolBoardDistrict5.tab,2022,general,NA,Portland,ME,School Board,5,ME_2022_G_Portland_05_SchoolBoard
+PortlandME_20221108_SchoolBoardDistrict3.tab,2022,general,NA,Portland,ME,School Board,3,ME_2022_G_Portland_03_SchoolBoard
+PortlandME_20241105_CityCouncilAtLarge.tab,2024,general,NA,Portland,ME,City Council,At_Large,ME_2024_G_Portland_At_Large_Council
+PortlandME_20241105_CityCouncilDistrict2.tab,2024,general,NA,Portland,ME,City Council,2,ME_2024_G_Portland_02_Council
+PortlandOR_20241105_Auditor.tab,2024,general,NA,Portland,ME,City Auditor,At_Large,ME_2024_G_Portland_At_Large_CityAuditor
+PortlandOR_20241105_Mayor.tab,2024,general,NA,Portland,ME,Mayor,At_Large,ME_2024_G_Portland_At_Large_Mayor
+RedondoBeach_20250304_CityAttorney.tab,2025,general,NA,Redondo Beach,CA,City Attorney,At_Large,CA_2025_G_Redondo_Beach_At_Large_CityAttorney
+RedondoBeach_20250304_CityCouncilD1.tab,2025,general,NA,Redondo Beach,CA,City Council,1,CA_2025_G_Redondo_Beach_01_Council
+RedondoBeach_20250304_CityCouncilD2.tab,2025,general,NA,Redondo Beach,CA,City Council,2,CA_2025_G_Redondo_Beach_02_Council
+RedondoBeach_20250304_CityCouncilD4.tab,2025,general,NA,Redondo Beach,CA,City Council,4,CA_2025_G_Redondo_Beach_04_Council
+RedondoBeach_20250304_Mayor.tab,2025,general,NA,Redondo Beach,CA,Mayor,At_Large,CA_2025_G_Redondo_Beach_At_Large_Mayor
+SanFrancisco_20041102_BoardofSupervisorsDistrict11.tab,2004,general,NA,San Francisco,CA,City Council,11,CA_2004_G_San_Francisco_11_Council
+SanFrancisco_20041102_BoardofSupervisorsDistrict2.tab,2004,general,NA,San Francisco,CA,City Council,2,CA_2004_G_San_Francisco_02_Council
+SanFrancisco_20041102_BoardofSupervisorsDistrict3.tab,2004,general,NA,San Francisco,CA,City Council,3,CA_2004_G_San_Francisco_03_Council
+SanFrancisco_20041102_BoardofSupervisorsDistrict5.tab,2004,general,NA,San Francisco,CA,City Council,5,CA_2004_G_San_Francisco_05_Council
+SanFrancisco_20041102_BoardofSupervisorsDistrict7.tab,2004,general,NA,San Francisco,CA,City Council,7,CA_2004_G_San_Francisco_07_Council
+SanFrancisco_20041102_BoardofSupervisorsDistrict9.tab,2004,general,NA,San Francisco,CA,City Council,9,CA_2004_G_San_Francisco_09_Council
+SanFrancisco_20041105_BoardofSupervisorsDistrict1.tab,2004,general,NA,San Francisco,CA,City Council,1,CA_2004_G_San_Francisco_01_Council
+SanFrancisco_20051108_AssessorRecorder.tab,2005,general,NA,San Francisco,CA,Recorder,At_Large,CA_2005_G_San_Francisco_At_Large_Recorder
+SanFrancisco_20051108_Treasurer.tab,2005,general,NA,San Francisco,CA,Treasurer,At_Large,CA_2005_G_San_Francisco_At_Large_Treasurer
+SanFrancisco_20061107_BoardofSupervisorsDistrict10.tab,2006,general,NA,San Francisco,CA,City Council,10,CA_2006_G_San_Francisco_10_Council
+SanFrancisco_20061107_BoardofSupervisorsDistrict2.tab,2006,general,NA,San Francisco,CA,City Council,2,CA_2006_G_San_Francisco_02_Council
+SanFrancisco_20061107_BoardofSupervisorsDistrict4.tab,2006,general,NA,San Francisco,CA,City Council,4,CA_2006_G_San_Francisco_04_Council
+SanFrancisco_20061107_BoardofSupervisorsDistrict6.tab,2006,general,NA,San Francisco,CA,City Council,6,CA_2006_G_San_Francisco_06_Council
+SanFrancisco_20061107_BoardofSupervisorsDistrict8.tab,2006,general,NA,San Francisco,CA,City Council,8,CA_2006_G_San_Francisco_08_Council
+SanFrancisco_20071106_Mayor.tab,2007,general,NA,San Francisco,CA,Mayor,At_Large,CA_2007_G_San_Francisco_At_Large_Mayor
+SanFrancisco_20081104_BoardofSupervisorsDistrict11.tab,2008,general,NA,San Francisco,CA,City Council,11,CA_2008_G_San_Francisco_11_Council
+SanFrancisco_20081104_BoardofSupervisorsDistrict1.tab,2008,general,NA,San Francisco,CA,City Council,1,CA_2008_G_San_Francisco_01_Council
+SanFrancisco_20081104_BoardofSupervisorsDistrict3.tab,2008,general,NA,San Francisco,CA,City Council,3,CA_2008_G_San_Francisco_03_Council
+SanFrancisco_20081104_BoardofSupervisorsDistrict4.tab,2008,general,NA,San Francisco,CA,City Council,4,CA_2008_G_San_Francisco_04_Council
+SanFrancisco_20081104_BoardofSupervisorsDistrict5.tab,2008,general,NA,San Francisco,CA,City Council,5,CA_2008_G_San_Francisco_05_Council
+SanFrancisco_20081104_BoardofSupervisorsDistrict7.tab,2008,general,NA,San Francisco,CA,City Council,7,CA_2008_G_San_Francisco_07_Council
+SanFrancisco_20081104_BoardofSupervisorsDistrict9.tab,2008,general,NA,San Francisco,CA,City Council,9,CA_2008_G_San_Francisco_09_Council
+SanFrancisco_20101102_BoardofSupervisorsDistrict10.tab,2010,general,NA,San Francisco,CA,City Council,10,CA_2010_G_San_Francisco_10_Council
+SanFrancisco_20101102_BoardofSupervisorsDistrict2.tab,2010,general,NA,San Francisco,CA,City Council,2,CA_2010_G_San_Francisco_02_Council
+SanFrancisco_20101102_BoardofSupervisorsDistrict6.tab,2010,general,NA,San Francisco,CA,City Council,6,CA_2010_G_San_Francisco_06_Council
+SanFrancisco_20101102_BoardofSupervisorsDistrict8.tab,2010,general,NA,San Francisco,CA,City Council,8,CA_2010_G_San_Francisco_08_Council
+SanFrancisco_20111108_DistrictAttorney.tab,2011,general,NA,San Francisco,CA,District Attorney,At_Large,CA_2011_G_San_Francisco_At_Large_DistrictAttorney
+SanFrancisco_20111108_Mayor.tab,2011,general,NA,San Francisco,CA,Mayor,At_Large,CA_2011_G_San_Francisco_At_Large_Mayor
+SanFrancisco_20111108_Sheriff.tab,2011,general,NA,San Francisco,CA,Sheriff,At_Large,CA_2011_G_San_Francisco_At_Large_Sheriff
+SanFrancisco_20121106_BoardofSupervisorsDistrict5.tab,2012,general,NA,San Francisco,CA,City Council,5,CA_2012_G_San_Francisco_05_Council
+SanFrancisco_20121106_BoardofSupervisorsDistrict7.tab,2012,general,NA,San Francisco,CA,City Council,7,CA_2012_G_San_Francisco_07_Council
+SanFrancisco_20141104_BoardofSupervisorsDistrict10.tab,2014,general,NA,San Francisco,CA,City Council,10,CA_2014_G_San_Francisco_10_Council
+SanFrancisco_20151103_BoardofSupervisorsDistrict3.tab,2015,general,NA,San Francisco,CA,City Council,3,CA_2015_G_San_Francisco_03_Council
+SanFrancisco_20151103_Mayor.tab,2015,general,NA,San Francisco,CA,Mayor,At_Large,CA_2015_G_San_Francisco_At_Large_Mayor
+SanFrancisco_20151103_Sheriff.tab,2015,general,NA,San Francisco,CA,Sheriff,At_Large,CA_2015_G_San_Francisco_At_Large_Sheriff
+SanFrancisco_20161108_BoardofSupervisorsDistrict11.tab,2016,general,NA,San Francisco,CA,City Council,11,CA_2016_G_San_Francisco_11_Council
+SanFrancisco_20161108_BoardofSupervisorsDistrict1.tab,2016,general,NA,San Francisco,CA,City Council,1,CA_2016_G_San_Francisco_01_Council
+SanFrancisco_20161108_BoardofSupervisorsDistrict3.tab,2016,general,NA,San Francisco,CA,City Council,3,CA_2016_G_San_Francisco_03_Council
+SanFrancisco_20161108_BoardofSupervisorsDistrict5.tab,2016,general,NA,San Francisco,CA,City Council,5,CA_2016_G_San_Francisco_05_Council
+SanFrancisco_20161108_BoardofSupervisorsDistrict7.tab,2016,general,NA,San Francisco,CA,City Council,7,CA_2016_G_San_Francisco_07_Council
+SanFrancisco_20161108_BoardofSupervisorsDistrict9.tab,2016,general,NA,San Francisco,CA,City Council,9,CA_2016_G_San_Francisco_09_Council
+SanFrancisco_20180605_BoardofSupervisorsDistrict8.tab,2018,general,NA,San Francisco,CA,City Council,8,CA_2018_G_San_Francisco_08_Council
+SanFrancisco_20180605_Mayor.tab,2018,general,NA,San Francisco,CA,Mayor,At_Large,CA_2018_G_San_Francisco_At_Large_Mayor
+SanFrancisco_20181106_AssessorRecorder.tab,2018,general,NA,San Francisco,CA,Recorder,At_Large,CA_2018_G_San_Francisco_At_Large_Recorder
+SanFrancisco_20181106_BoardofSupervisorsDistrict10.tab,2018,general,NA,San Francisco,CA,City Council,10,CA_2018_G_San_Francisco_10_Council
+SanFrancisco_20181106_BoardofSupervisorsDistrict2.tab,2018,general,NA,San Francisco,CA,City Council,2,CA_2018_G_San_Francisco_02_Council
+SanFrancisco_20181106_BoardofSupervisorsDistrict4.tab,2018,general,NA,San Francisco,CA,City Council,4,CA_2018_G_San_Francisco_04_Council
+SanFrancisco_20181106_BoardofSupervisorsDistrict6.tab,2018,general,NA,San Francisco,CA,City Council,6,CA_2018_G_San_Francisco_06_Council
+SanFrancisco_20181106_BoardofSupervisorsDistrict8.tab,2018,general,NA,San Francisco,CA,City Council,8,CA_2018_G_San_Francisco_08_Council
+SanFrancisco_20181106_PublicDefender.tab,2018,general,NA,San Francisco,CA,Public Defender,At_Large,CA_2018_G_San_Francisco_At_Large_PublicDefender
+SanFrancisco_20191105_BoardofSupervisorsDistrict5.tab,2019,general,NA,San Francisco,CA,City Council,5,CA_2019_G_San_Francisco_05_Council
+SanFrancisco_20191105_CityAttorney.tab,2019,general,NA,San Francisco,CA,City Attorney,At_Large,CA_2019_G_San_Francisco_At_Large_CityAttorney
+SanFrancisco_20191105_DistrictAttorney.tab,2019,general,NA,San Francisco,CA,District Attorney,At_Large,CA_2019_G_San_Francisco_At_Large_DistrictAttorney
+SanFrancisco_20191105_Mayor.tab,2019,general,NA,San Francisco,CA,Mayor,At_Large,CA_2019_G_San_Francisco_At_Large_Mayor
+SanFrancisco_20191105_PublicDefender.tab,2019,general,NA,San Francisco,CA,Public Defender,At_Large,CA_2019_G_San_Francisco_At_Large_PublicDefender
+SanFrancisco_20191105_Sheriff.tab,2019,general,NA,San Francisco,CA,Sheriff,At_Large,CA_2019_G_San_Francisco_At_Large_Sheriff
+SanFrancisco_20191105_Treasurer.tab,2019,general,NA,San Francisco,CA,Treasurer,At_Large,CA_2019_G_San_Francisco_At_Large_Treasurer
+SanFrancisco_20201103_BoardOfSupervisorsD11.tab,2020,general,NA,San Francisco,CA,City Council,11,CA_2020_G_San_Francisco_11_Council
+SanFrancisco_20201103_BoardOfSupervisorsD1.tab,2020,general,NA,San Francisco,CA,City Council,1,CA_2020_G_San_Francisco_01_Council
+SanFrancisco_20201103_BoardOfSupervisorsD3.tab,2020,general,NA,San Francisco,CA,City Council,3,CA_2020_G_San_Francisco_03_Council
+SanFrancisco_20201103_BoardOfSupervisorsD5.tab,2020,general,NA,San Francisco,CA,City Council,5,CA_2020_G_San_Francisco_05_Council
+SanFrancisco_20201103_BoardOfSupervisorsD7.tab,2020,general,NA,San Francisco,CA,City Council,7,CA_2020_G_San_Francisco_07_Council
+SanFrancisco_20201103_BoardOfSupervisorsD9.tab,2020,general,NA,San Francisco,CA,City Council,9,CA_2020_G_San_Francisco_09_Council
+SanFrancisco_20221108_AssessorRecorder.tab,2022,general,NA,San Francisco,CA,Recorder,At_Large,CA_2022_G_San_Francisco_At_Large_Recorder
+SanFrancisco_20221108_BoardofSupervisorsD10.tab,2022,general,NA,San Francisco,CA,City Council,10,CA_2022_G_San_Francisco_10_Council
+SanFrancisco_20221108_BoardofSupervisorsD2.tab,2022,general,NA,San Francisco,CA,City Council,2,CA_2022_G_San_Francisco_02_Council
+SanFrancisco_20221108_BoardofSupervisorsD4.tab,2022,general,NA,San Francisco,CA,City Council,4,CA_2022_G_San_Francisco_04_Council
+SanFrancisco_20221108_BoardofSupervisorsD6.tab,2022,general,NA,San Francisco,CA,City Council,6,CA_2022_G_San_Francisco_06_Council
+SanFrancisco_20221108_BoardofSupervisorsD8.tab,2022,general,NA,San Francisco,CA,City Council,8,CA_2022_G_San_Francisco_08_Council
+SanFrancisco_20221108_DistrictAttorney.tab,2022,general,NA,San Francisco,CA,District Attorney,At_Large,CA_2022_G_San_Francisco_At_Large_DistrictAttorney
+SanFrancisco_20221108_PublicDefender.tab,2022,general,NA,San Francisco,CA,Public Defender,At_Large,CA_2022_G_San_Francisco_At_Large_PublicDefender
+SanFrancisco_20241105_BoS_D11.tab,2024,general,NA,San Francisco,CA,City Council,11,CA_2024_G_San_Francisco_11_Council
+SanFrancisco_20241105_BoS_D1.tab,2024,general,NA,San Francisco,CA,City Council,1,CA_2024_G_San_Francisco_01_Council
+SanFrancisco_20241105_BoS_D3.tab,2024,general,NA,San Francisco,CA,City Council,3,CA_2024_G_San_Francisco_03_Council
+SanFrancisco_20241105_BoS_D5.tab,2024,general,NA,San Francisco,CA,City Council,5,CA_2024_G_San_Francisco_05_Council
+SanFrancisco_20241105_BoS_D7.tab,2024,general,NA,San Francisco,CA,City Council,7,CA_2024_G_San_Francisco_07_Council
+SanFrancisco_20241105_BoS_D9.tab,2024,general,NA,San Francisco,CA,City Council,9,CA_2024_G_San_Francisco_09_Council
+SanFrancisco_20241105_CityAttorney.tab,2024,general,NA,San Francisco,CA,City Attorney,At_Large,CA_2024_G_San_Francisco_At_Large_CityAttorney
+SanFrancisco_20241105_DistrictAttorney.tab,2024,general,NA,San Francisco,CA,District Attorney,At_Large,CA_2024_G_San_Francisco_At_Large_DistrictAttorney
+SanFrancisco_20241105_Mayor.tab,2024,general,NA,San Francisco,CA,Mayor,At_Large,CA_2024_G_San_Francisco_At_Large_Mayor
+SanFrancisco_20241105_Sheriff.tab,2024,general,NA,San Francisco,CA,Sheriff,At_Large,CA_2024_G_San_Francisco_At_Large_Sheriff
+SanFrancisco_20241105_Treasurer.tab,2024,general,NA,San Francisco,CA,Treasurer,At_Large,CA_2024_G_San_Francisco_At_Large_Treasurer
+SanLeandro_20101102_CountyCouncilDistrict1.tab,2010,general,NA,San Leandro,CA,City Council,1,CA_2010_G_San_Leandro_01_Council
+SanLeandro_20101102_CountyCouncilDistrict3.tab,2010,general,NA,San Leandro,CA,City Council,3,CA_2010_G_San_Leandro_03_Council
+SanLeandro_20101102_CountyCouncilDistrict5.tab,2010,general,NA,San Leandro,CA,City Council,5,CA_2010_G_San_Leandro_05_Council
+SanLeandro_20101102_Mayor.tab,2010,general,NA,San Leandro,CA,Mayor,At_Large,CA_2010_G_San_Leandro_At_Large_Mayor
+SanLeandro_20121106_CountyCouncilDistrict2.tab,2012,general,NA,San Leandro,CA,City Council,2,CA_2012_G_San_Leandro_02_Council
+SanLeandro_20121106_CountyCouncilDistrict4.tab,2012,general,NA,San Leandro,CA,City Council,4,CA_2012_G_San_Leandro_04_Council
+SanLeandro_20121106_CountyCouncilDistrict6.tab,2012,general,NA,San Leandro,CA,City Council,6,CA_2012_G_San_Leandro_06_Council
+SanLeandro_20141104_CountyCouncilDistrict1.tab,2014,general,NA,San Leandro,CA,City Council,1,CA_2014_G_San_Leandro_01_Council
+SanLeandro_20141104_CountyCouncilDistrict3.tab,2014,general,NA,San Leandro,CA,City Council,3,CA_2014_G_San_Leandro_03_Council
+SanLeandro_20141104_CountyCouncilDistrict5.tab,2014,general,NA,San Leandro,CA,City Council,5,CA_2014_G_San_Leandro_05_Council
+SanLeandro_20141104_Mayor.tab,2014,general,NA,San Leandro,CA,Mayor,At_Large,CA_2014_G_San_Leandro_At_Large_Mayor
+SanLeandro_20161108_CountyCouncilDistrict2.tab,2016,general,NA,San Leandro,CA,City Council,2,CA_2016_G_San_Leandro_02_Council
+SanLeandro_20161108_CountyCouncilDistrict4.tab,2016,general,NA,San Leandro,CA,City Council,4,CA_2016_G_San_Leandro_04_Council
+SanLeandro_20161108_CountyCouncilDistrict6.tab,2016,general,NA,San Leandro,CA,City Council,6,CA_2016_G_San_Leandro_06_Council
+SanLeandro_20181106_CountyCouncilDistrict1.tab,2018,general,NA,San Leandro,CA,City Council,1,CA_2018_G_San_Leandro_01_Council
+SanLeandro_20181106_CountyCouncilDistrict3.tab,2018,general,NA,San Leandro,CA,City Council,3,CA_2018_G_San_Leandro_03_Council
+SanLeandro_20181106_CountyCouncilDistrict5.tab,2018,general,NA,San Leandro,CA,City Council,5,CA_2018_G_San_Leandro_05_Council
+SanLeandro_20181106_Mayor.tab,2018,general,NA,San Leandro,CA,Mayor,At_Large,CA_2018_G_San_Leandro_At_Large_Mayor
+SanLeandro_20201103_CityCouncilD2.tab,2020,general,NA,San Leandro,CA,City Council,2,CA_2020_G_San_Leandro_02_Council
+SanLeandro_20201103_CityCouncilD4.tab,2020,general,NA,San Leandro,CA,City Council,4,CA_2020_G_San_Leandro_04_Council
+SanLeandro_20201103_CityCouncilD6.tab,2020,general,NA,San Leandro,CA,City Council,6,CA_2020_G_San_Leandro_06_Council
+SantaFe_20180306_CityCouncilDistrict2.tab,2018,general,NA,Santa Fe,NM,City Council,2,NM_2018_G_Santa_Fe_02_Council
+SantaFe_20180306_CityCouncilDistrict4.tab,2018,general,NA,Santa Fe,NM,City Council,4,NM_2018_G_Santa_Fe_04_Council
+SantaFe_20180306_Mayor.tab,2018,general,NA,Santa Fe,NM,Mayor,At_Large,NM_2018_G_Santa_Fe_At_Large_Mayor
+Springville_20211102_CityCouncil_2yrPartialTerm.tab,2021,general,NA,Springville,UT,City Council,At_Large,UT_2021_G_Springville_At_Large_Council
+Springville_20211102_Mayor.tab,2021,general,NA,Springville,UT,Mayor,At_Large,UT_2021_G_Springville_At_Large_Mayor
+StLouisPark_20211102_CityCouncilWard1.tab,2021,general,NA,St. Louis Park,MN,City Council,1,MN_2021_G_St._Louis_Park_01_Council
+StLouisPark_20211102_CityCouncilWard2.tab,2021,general,NA,St. Louis Park,MN,City Council,2,MN_2021_G_St._Louis_Park_02_Council
+StLouisPark_20211102_CityCouncilWard3.tab,2021,general,NA,St. Louis Park,MN,City Council,3,MN_2021_G_St._Louis_Park_03_Council
+StLouisPark_20211102_CityCouncilWard4.tab,2021,general,NA,St. Louis Park,MN,City Council,4,MN_2021_G_St._Louis_Park_04_Council
+TakomaPark_20221108_CityCouncilWard1.tab,2022,general,NA,Takoma Park,MD,City Council,1,MD_2022_G_Takoma_Park_01_Council
+TakomaPark_20221108_CityCouncilWard2.tab,2022,general,NA,Takoma Park,MD,City Council,2,MD_2022_G_Takoma_Park_02_Council
+TakomaPark_20221108_CityCouncilWard3.tab,2022,general,NA,Takoma Park,MD,City Council,3,MD_2022_G_Takoma_Park_03_Council
+TakomaPark_20221108_CityCouncilWard4.tab,2022,general,NA,Takoma Park,MD,City Council,4,MD_2022_G_Takoma_Park_04_Council
+TakomaPark_20221108_CityCouncilWard5.tab,2022,general,NA,Takoma Park,MD,City Council,5,MD_2022_G_Takoma_Park_05_Council
+TakomaPark_20221108_CityCouncilWard6.tab,2022,general,NA,Takoma Park,MD,City Council,6,MD_2022_G_Takoma_Park_06_Council
+TakomaPark_20221108_Mayor.tab,2022,general,NA,Takoma Park,MD,Mayor,At_Large,MD_2022_G_Takoma_Park_At_Large_Mayor
+USVirginIslands_20240208_RepublicanPresidentialNomineeofficial.tab,2024,primary,REP,US Virgin Islands,VI,U.S. President,At_Large,VI_2024_P_US_Virgin_Islands_At_Large_US_President_REP
+Vineyard_20211102_Mayor.tab,2021,general,NA,Vineyard,UT,Mayor,At_Large,UT_2021_G_Vineyard_At_Large_Mayor
+Westbrook_20241105_Mayor.tab,2024,general,NA,Westbrook,ME,Mayor,At_Large,ME_2024_G_Westbrook_At_Large_Mayor
+WoodlandHills_20211102_Mayor.tab,2021,general,NA,Woodland Hills,UT,Mayor,At_Large,UT_2021_G_Woodland_Hills_At_Large_Mayor

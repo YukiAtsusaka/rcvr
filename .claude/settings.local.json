@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"C:\\\\Users\\\\yatsusak\\\\Documents\\\\rcvr\" && grep \",NA$\" cvr_identifiers.csv)"
+    ]
+  }
+}
