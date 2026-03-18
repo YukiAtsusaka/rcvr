@@ -1,35 +1,30 @@
-# tests/test_read_cvr.R
-# Run with: testthat::test_file("tests/test_read_cvr.R")
-#       or: source("tests/test_read_cvr.R")
+# tests/testthat/test_read_cvr.R
 
-library(testthat)
 library(readr)
 library(dplyr)
 
-source("R/read_cvr.R")
+# ── Shared fixtures ───────────────────────────────────────────────────────────
 
-# ── Shared fixtures ──────────────────────────────────────────────────────────
-
-# Minimal identifiers table:
+# Minimal identifiers table (source_file has no extension):
 #   row 1 – matched file with a real election_id
 #   row 2 – matched file whose election_id is NA
 ids <- tibble::tribble(
-  ~source_file,                    ~year, ~election_type, ~prm_party, ~juris,       ~state, ~office,       ~dist,       ~election_id,
-  "minneapolis_2021_mayor.csv",    2021L, "general",       NA,        "Minneapolis", "MN",  "Mayor",       "At_Large",  "MN_2021_G_Minneapolis_At_Large_Mayor",
-  "Alaska_20221108_HouseDistrict1.tab", NA_integer_, "general", NA,  "Alaska",      "AK",  NA_character_, "1",         NA_character_
+  ~source_file,                         ~year, ~election_type, ~prm_party, ~juris,        ~state, ~office,       ~dist,       ~election_id,
+  "minneapolis_2021_mayor",             2021L, "general",       NA,        "Minneapolis",  "MN",  "Mayor",       "At_Large",  "MN_2021_G_Minneapolis_At_Large_Mayor",
+  "Alaska_20221108_HouseDistrict1",  NA_integer_, "general",   NA,        "Alaska",       "AK",  NA_character_, "1",         NA_character_
 )
 
 # Minimal CVR data (two ballot rows)
 cvr_rows <- tibble::tibble(
-  ballot_id  = c(1L, 2L),
-  first      = c("CandidateA", "CandidateB"),
-  second     = c("CandidateB", NA_character_)
+  ballot_id = c(1L, 2L),
+  first     = c("CandidateA", "CandidateB"),
+  second    = c("CandidateB", NA_character_)
 )
 
-write_ids  <- function(path) write_csv(ids, path)
-write_cvr  <- function(path) write_csv(cvr_rows, path)
+write_ids <- function(path) write_csv(ids, path)
+write_cvr <- function(path) write_csv(cvr_rows, path)
 
-# ── Tests ────────────────────────────────────────────────────────────────────
+# ── Tests ─────────────────────────────────────────────────────────────────────
 
 test_that("election_id is correct when source_file matches with a non-NA id", {
   tmp_dir  <- tempdir()

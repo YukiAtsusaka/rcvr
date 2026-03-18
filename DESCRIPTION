@@ -1,0 +1,16 @@
+Package: rcvr
+Type: Package
+Title: Read and Identify Cast-Vote-Record Files
+Version: 0.1.0
+Authors@R: person("Yuki", "Atsusaka", role = c("aut", "cre"),
+                  email = "yuki.atsusaka@example.com")
+Description: Reads cast-vote-record (CVR) CSV files from ranked-choice voting
+    elections and prepends a standardized election identifier derived from the
+    file name. Identifier metadata is linked to the archive of American RCV
+    elections at <https://www.archive-rcv.com>.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports:
+    dplyr,
+    readr
+RoxygenNote: 7.3.2

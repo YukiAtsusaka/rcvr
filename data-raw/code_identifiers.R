@@ -8,11 +8,11 @@ library(readr)
 # ----------------------------------------------------------------------
 # 1. Read file names
 # ----------------------------------------------------------------------
-file_names <- readRDS("cvr_file_names.rds")
+file_names <- readRDS("data-raw/cvr_file_names.rds")
 
-# Working copy: lowercase, no extension; original kept
+# Working copy: lowercase, no extension; source_file also stripped of extension
 fn <- tolower(tools::file_path_sans_ext(file_names))
-df <- tibble(source_file = file_names, fn = fn)
+df <- tibble(source_file = tools::file_path_sans_ext(file_names), fn = fn)
 
 # ----------------------------------------------------------------------
 # 2. Tease out identifying variables from file names
@@ -289,8 +289,8 @@ df <- df |>
 # ----------------------------------------------------------------------
 # 5. Save
 # ----------------------------------------------------------------------
-saveRDS(df, "cvr_identifiers.rds")
-write_csv(df, "cvr_identifiers.csv")
+saveRDS(df, "data-raw/cvr_identifiers.rds")
+write_csv(df, "inst/extdata/cvr_identifiers.csv")
 
 cat(sprintf(
   "Total: %d | election_id generated: %d | missing: %d\n",
