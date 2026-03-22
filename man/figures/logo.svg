@@ -1,0 +1,106 @@
+<svg viewBox="0 0 200 232" xmlns="http://www.w3.org/2000/svg" width="400" height="464">
+  <defs>
+
+    <!-- Arrowhead marker -->
+    <marker id="arr" markerWidth="7" markerHeight="7"
+            refX="5.5" refY="3.5" orient="auto">
+      <polygon points="0,0.5 6,3.5 0,6.5" fill="#FFD700"/>
+    </marker>
+
+    <!-- Hex gradient: deep navy -->
+    <linearGradient id="hexGrad" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0%"   stop-color="#1E3D6B"/>
+      <stop offset="100%" stop-color="#0B1F3A"/>
+    </linearGradient>
+
+    <!-- Letter-circle gradient: crimson -->
+    <radialGradient id="circGrad" cx="38%" cy="32%" r="65%">
+      <stop offset="0%"   stop-color="#EF5350"/>
+      <stop offset="100%" stop-color="#B71C1C"/>
+    </radialGradient>
+
+    <!-- Glow filter for arcs -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+  <!-- ── Hex background ─────────────────────────────────────────── -->
+  <!-- Pointed-top hex, center (100,116), radius 108                 -->
+  <polygon points="100,8 193.5,62 193.5,170 100,224 6.5,170 6.5,62"
+           fill="url(#hexGrad)" stroke="white" stroke-width="4"/>
+
+  <!-- Subtle halo ring -->
+  <circle cx="100" cy="105" r="56"
+          fill="none" stroke="rgba(255,255,255,0.07)" stroke-width="12"/>
+
+  <!-- ── Clockwise arcs: R→C→V→R ────────────────────────────────── -->
+  <!--
+    Letters placed at r=42 from center (100,105):
+      R  at θ=270° → (100,  63)
+      C  at θ= 30° → (136, 126)
+      V  at θ=150° → ( 64, 126)
+
+    Arc guide-circle r=52.
+    Angular buffer ≈22° so arcs clear the letter circles.
+      R→C  : from θ=292° to θ=  8°   (clockwise, sweep-flag=1)
+      C→V  : from θ= 52° to θ=128°   (clockwise, sweep-flag=1)
+      V→R  : from θ=172° to θ=248°   (clockwise, sweep-flag=1)
+  -->
+  <!-- R → C -->
+  <path d="M 119.7,56.9 A 52,52 0 0,1 151.5,112"
+        fill="none" stroke="#FFD700" stroke-width="2.4"
+        stroke-linecap="round" marker-end="url(#arr)" filter="url(#glow)"/>
+
+  <!-- C → V -->
+  <path d="M 131.7,146.2 A 52,52 0 0,1 68.3,146.2"
+        fill="none" stroke="#FFD700" stroke-width="2.4"
+        stroke-linecap="round" marker-end="url(#arr)" filter="url(#glow)"/>
+
+  <!-- V → R -->
+  <path d="M 48.5,112 A 52,52 0 0,1 80.3,56.9"
+        fill="none" stroke="#FFD700" stroke-width="2.4"
+        stroke-linecap="round" marker-end="url(#arr)" filter="url(#glow)"/>
+
+  <!-- ── Letter circles ─────────────────────────────────────────── -->
+  <circle cx="100" cy="63"  r="19" fill="url(#circGrad)"/>
+  <circle cx="136" cy="126" r="19" fill="url(#circGrad)"/>
+  <circle cx="64"  cy="126" r="19" fill="url(#circGrad)"/>
+
+  <!-- Circle borders -->
+  <circle cx="100" cy="63"  r="19" fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="1.2"/>
+  <circle cx="136" cy="126" r="19" fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="1.2"/>
+  <circle cx="64"  cy="126" r="19" fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="1.2"/>
+
+  <!-- Letters R, C, V -->
+  <text x="100" y="63" text-anchor="middle" dominant-baseline="central"
+        fill="white" font-size="20" font-weight="bold"
+        font-family="Arial, Helvetica, sans-serif">R</text>
+  <text x="136" y="126" text-anchor="middle" dominant-baseline="central"
+        fill="white" font-size="20" font-weight="bold"
+        font-family="Arial, Helvetica, sans-serif">C</text>
+  <text x="64"  y="126" text-anchor="middle" dominant-baseline="central"
+        fill="white" font-size="20" font-weight="bold"
+        font-family="Arial, Helvetica, sans-serif">V</text>
+
+  <!-- ── Center annotation: dual meaning ───────────────────────── -->
+  <text x="100" y="103" text-anchor="middle" dominant-baseline="central"
+        fill="rgba(255,215,0,0.60)" font-size="7.5" font-weight="bold"
+        font-family="Arial, Helvetica, sans-serif" letter-spacing="0.5">RCV = CVR</text>
+
+  <!-- ── Package name ───────────────────────────────────────────── -->
+  <text x="100" y="193" text-anchor="middle"
+        fill="white" font-size="27" font-weight="bold"
+        font-family="'Courier New', Courier, monospace" letter-spacing="4">rcvr</text>
+
+  <!-- ── Subtitle ───────────────────────────────────────────────── -->
+  <text x="100" y="211" text-anchor="middle"
+        fill="rgba(144,183,228,0.85)" font-size="8.5"
+        font-family="Arial, Helvetica, sans-serif" letter-spacing="0.8">ranked-choice voting</text>
+
+</svg>

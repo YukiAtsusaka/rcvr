@@ -1,6 +1,4 @@
-# rcvr
-
-An R package for reading and identifying cast-vote-record (CVR) files from ranked-choice voting (RCV) elections.
+# `rcvr`: A Tool for Ranked-Choice Voting Research with Cast Vote Records <img src="man/figures/logo.png" align="right" width="150"/>
 
 ## Overview
 
